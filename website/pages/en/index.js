@@ -76,13 +76,12 @@ class HomeSplash extends React.Component {
     let language = this.props.language || '';
     return (
       <SplashContainer>
-        <Logo img_src={imgUrl('docusaurus.svg')} />
+        {/*<Logo img_src={imgUrl('docusaurus.svg')} />*/}
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
-            <Button href="#try">Try It Out</Button>
-            <Button href={docUrl('doc1.html', language)}>Example Link</Button>
-            <Button href={docUrl('doc2.html', language)}>Example Link 2</Button>
+            <Button href="https://play.google.com/store/apps/details?id=org.tasks&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Get it on Google Play</Button>
+            <Button href="https://f-droid.org/packages/org.tasks/">Get it on F-Droid</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -103,16 +102,16 @@ const Features = props => (
   <Block layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature',
-        image: imgUrl('docusaurus.svg'),
+        content: 'Tasks is licensed under the GNU General Public License v3.0',
+        image: imgUrl('octocat.svg'),
         imageAlign: 'top',
-        title: 'Feature One',
+        title: 'Free and open-source',
       },
       {
-        content: 'The content of my second feature',
-        image: imgUrl('docusaurus.svg'),
+        content: 'Sync with Google Tasks and compatible CalDAV servers, including NextCloud, OwnCloud, and Apple\'s iCloud',
+        image: imgUrl('cloud.svg'),
         imageAlign: 'top',
-        title: 'Feature Two',
+        title: 'Control your data',
       },
     ]}
   </Block>
@@ -154,7 +153,7 @@ const TryOut = props => (
 );
 
 const Description = props => (
-  <Block background="dark">
+  <Block>
     {[
       {
         content: 'This is another description of how this project is useful',
@@ -206,8 +205,8 @@ class Index extends React.Component {
         <div className="mainContainer">
           <Features />
           <FeatureCallout />
-          <LearnHow />
-          <TryOut />
+          {/*<LearnHow />*/}
+          {/*<TryOut />*/}
           <Description />
           <Showcase language={language} />
         </div>

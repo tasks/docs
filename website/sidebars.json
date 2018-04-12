@@ -1,8 +1,8 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "General": ["google_tasks", "pre_release_testing", "tasker", "develop", "translations", "donate"],
+    "CalDAV": ["caldav", "google_tasks"],
+    "Troubleshooting": ["notifications"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

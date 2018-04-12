@@ -1,0 +1,8 @@
+---
+id: translations
+title: Translations
+---
+
+Anyone can help out with translations for Tasks. Please visit Task's [GetLocalization](http://www.getlocalization.com/tasks_android/) project page to get involved. Feel free to add your language if it does not already exist on GetLocalization
+
+**Note:** Some strings contain special formatting characters such as '%s', '\n', and '%1$s' that need to be preserved. For example in the string "Task Saved: due %s," %s is a placeholder for the task due date. If you remove these special formatting characters then Tasks will not be able to plug in the necessary values.

@@ -1,7 +1,7 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: notifications
+title: Notifications
+sidebar_label: Notifications
 ---
 
 Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
