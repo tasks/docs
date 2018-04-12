@@ -1,7 +1,7 @@
 {
   "docs": {
-    "General": ["google_tasks", "pre_release_testing", "tasker", "develop", "translations", "donate"],
-    "CalDAV": ["caldav", "google_tasks"],
+    "General": ["pre_release_testing", "tasker", "develop", "translations", "donate"],
+    "CalDAV": ["caldav_getting_started", "caldav_setup_account"],
     "Troubleshooting": ["notifications"]
   },
   "docs-other": {

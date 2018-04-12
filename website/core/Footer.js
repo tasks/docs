@@ -38,28 +38,29 @@ class Footer extends React.Component {
             <a href={this.docUrl('notifications.html', this.props.language)}>
               Troubleshooting
             </a>
-            <a href={this.docUrl('caldav.html', this.props.language)}>
-              Synchronization
-            </a>
           </div>
           <div>
             <h5>Community</h5>
-            <a href={this.pageUrl('users.html', this.props.language)}>
-              User Showcase
-            </a>
             <a
-              href="http://stackoverflow.com/questions/tagged/"
+              href="https://plus.google.com/communities/108502375869946904382"
               target="_blank"
               rel="noreferrer noopener">
-              Stack Overflow
+              Google+
             </a>
-            <a href="https://discordapp.com/">Project Chat</a>
             <a
-              href="https://twitter.com/"
+              href="https://twitter.com/tasks_org"
               target="_blank"
               rel="noreferrer noopener">
               Twitter
             </a>
+            <a
+                href="https://www.facebook.com/tasks.org"
+                target="_blank"
+                rel="noreferrer noopener">
+              Facebook
+            </a>
+            <br/>
+            <br/>
           </div>
           <div>
             <h5>More</h5>
