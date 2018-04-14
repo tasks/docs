@@ -1,5 +1,6 @@
+Redirect /subscribe /docs/subscribe.html
 Redirect /donate /docs/donate.html
 Redirect /translations /docs/translations.html
 Redirect /help/tasker /docs/tasker.html
 Redirect /help /en/help.html
-Redirect /caldav /docs/caldav_getting_started.html
+Redirect /caldav /docs/caldav_intro.html

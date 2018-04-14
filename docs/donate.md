@@ -1,21 +1,9 @@
 ---
 id: donate
-title: Subscribe
-sidebar_label: Donate
+title: Donate
 ---
 
-Tasks is an open source project and does not collect or sell your personal information. In order to support development some features require an annual "Pro" subscription:
-
-* Themes<sup>*</sup>
-* CalDAV synchronization
-* Multiple Google Task accounts
-* Tasker plugins<sup>*</sup>
-* DashClock extension<sup>*</sup>
-
-<sup>*</sup> Previously available as an individual in-app purchase. Past purchases are still effective
-
-# Donate
-There are several additional options for providing financial support:
+If you would like to provide a financial contribution to Tasks please consider [subscribing](subscribe.md). If you have already subscribed, or would rather not subscribe, there are several alternative methods of providing financial support:
 
 * In-app donations
 * [Liberapay](https://liberapay.com/tasks/donate)

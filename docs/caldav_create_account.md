@@ -12,7 +12,7 @@ The following is not an exhaustive list of compatible services. If you discover 
 * [NextCloud hosting partners](https://nextcloud.com/providers/)
 * [OwnCloud hosting partners](https://owncloud.org/hosting-partners/)
 * [fruux](https://fruux.com/)
-* [Apple iCloud](https://www.icloud.com/)
+* [Apple iCloud](caldav_icloud.md)
 
 ### Run your own server
 * [NextCloud](https://nextcloud.com)

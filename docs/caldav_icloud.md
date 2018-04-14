@@ -1,17 +1,21 @@
 ---
 id: caldav_icloud
-title: Set up iCloud synchronization
+title: iCloud synchronization
 ---
 
-Tasks can synchronize data using iCloud Calendar's CalDAV interface. You may use iCloud's calendar sharing feature to share task lists with other iCloud users
+Tasks can synchronize data using iCloud's CalDAV interface. After setting up iCloud synchronization you can access your tasks at [icloud.com/reminders](https://www.icloud.com/reminders) or by using the Apple Reminders app on an [iPhone, iPad, iPod Touch](https://support.apple.com/en-us/HT205890), or [macOS](https://support.apple.com/guide/reminders/welcome/mac) device. You will also be able to [share your lists](https://support.apple.com/kb/PH12516) with other iCloud users.
 
 ### Prepare your iCloud account
 
-**An iPhone, iPad, or macOS device is required to enable iCloud Calendar and two-factor authentication**
+**An iPhone, iPad, iPod Touch, or macOS device is required to enable iCloud Calendar and two-factor authentication**
 
 * Register for a free account at [icloud.com](https://www.icloud.com)
-* [Enable two-factor authentication](https://support.apple.com/en-us/HT204915) on your account
-* [Enable iCloud Calendar](https://support.apple.com/en-us/HT208681) on your account
+* [Enable two-factor authentication](https://support.apple.com/en-us/HT204915)
+* [Enable iCloud Calendar](https://support.apple.com/en-us/HT208681)
+
+### Generate an app-specific password
+
+Third party apps must use app-specific passwords in order to access iCloud data. Follow [these instructions](https://support.apple.com/en-us/HT204397) to generate an app-specific password. You will enter this app-specific password when adding your iCloud account to Tasks
 
 ### Locate your CalDAV URL
 
@@ -24,7 +28,3 @@ Log in to [icloud.com/calendar](https://www.icloud.com/calendar)
 5. Use the host from step three when setting up your account in Tasks. In this example the user would enter ```https://p11-calendars.icloud.com```
 
 ![iCloud setup](/img/icloud_setup.png)
-
-### Generate an app-specific password
-
-Third party apps must use app-specific passwords in order to access iCloud data. Follow [these instructions](https://support.apple.com/en-us/HT204397) to generate an app-specific password. You will enter this app-specific password when adding your iCloud account to Tasks
