@@ -12,7 +12,7 @@ const siteConfig = {
   baseUrl: '/' /* base url for your project */,
   projectName: 'tasks',
   headerLinks: [
-    {doc: 'notifications', label: 'Docs'},
+    {doc: 'what_is_astrid', label: 'Docs'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],
