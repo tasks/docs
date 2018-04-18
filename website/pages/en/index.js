@@ -108,7 +108,7 @@ const Features = props => (
         title: 'Free and open-source',
       },
       {
-        content: 'Sync with Google Tasks and compatible CalDAV servers, including NextCloud, OwnCloud, and Apple\'s iCloud',
+        content: 'Sync with Google Tasks, Apple Reminders, and compatible CalDAV servers, including NextCloud and OwnCloud',
         image: imgUrl('cloud.svg'),
         imageAlign: 'top',
         title: 'Control your data',
@@ -118,12 +118,29 @@ const Features = props => (
 );
 
 const FeatureCallout = props => (
-  <div
-    className="productShowcaseSection paddingBottom"
-    style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
-  </div>
+    <div
+        className="productShowcaseSection paddingBottom"
+        style={{textAlign: 'center'}}>
+      <h2>Features</h2>
+      <ul style={{ListStyleType: "disc"}}>
+        <li>Apply tags to your tasks</li>
+        <li>Location based reminders</li>
+        <li>Powerful recurrence options</li>
+        <li>Dynamic lists using custom filters</li>
+        <li>Hide tasks until a later date</li>
+        <li>Automatically add tasks to your calendar</li>
+        <li><a href={docUrl('google_tasks_intro.html')}>Google Task synchronization</a></li>
+        <li>Lots of customization options</li>
+      </ul>
+      <h2>Subscribe for even more features</h2>
+      <ul style={{ListStyleType: "disc"}}>
+        <li style={{display: "list-item"}}>Additional themes</li>
+        <li><a href={docUrl('caldav_intro.html', null)}>CalDAV synchronization</a></li>
+        <li>Synchronize multiple Google Task accounts</li>
+        <li><a href={docUrl('tasker.html', null)}>Tasker plugins</a></li>
+        <li>Dashclock extension</li>
+      </ul>
+    </div>
 );
 
 const LearnHow = props => (

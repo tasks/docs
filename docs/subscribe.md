@@ -7,10 +7,10 @@ Tasks is [free and open-source software](https://en.wikipedia.org/wiki/Free_and_
 
 Subscriptions come with a 30-day free trial and you can [cancel at any time](https://support.google.com/googleplay/answer/7018481)
 
-* Themes
-* [CalDAV synchronization](caldav_intro.md)
-* Multiple Google Task accounts
-* [Tasker plugins](tasker.md)
+* [Customize](themes.md) your app with five base themes, twenty theme colors, and seventeen accent colors
+* Use [CalDAV](caldav_intro.md) to synchronize your lists with Apple Reminders, NextCloud, OwnCloud, [and more](caldav_create_account.md) 
+* Synchronize with [multiple Google Task accounts](google_tasks_setup.md)
+* Create a new task or trigger a list notification using [Tasker plugins](tasker.md)
 * DashClock extension
 
 # Legacy in-app purchases
