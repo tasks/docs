@@ -14,4 +14,7 @@ CalDAV support is under active development and additional synchronization capabi
 * Recurrence
 * Description
 
-You can synchronize Tasks with a variety of proprietary or open source calendar servers. Visit [choosing a provider](caldav_create_account.md) for more details
+### Additional features
+
+* Create and delete CalDAV collections
+* Move tasks between CalDAV lists

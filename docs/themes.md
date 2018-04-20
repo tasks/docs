@@ -3,11 +3,11 @@ id: themes
 title: Themes
 ---
 
-**You must [subscribe](subscribe.md) to unlock all of Tasks theme options**
+**A [subscription](subscribe.md) is required to unlock all of Tasks theme options**
 
 ### Themes
 
-Tasks offers light, black, dark, wallpaper, and day/night themes. You may choose one to use throughout the app
+Tasks offers light, black, dark, wallpaper, and day/night themes. One theme may be selected at a time
 
 ### Colors
 
@@ -15,8 +15,8 @@ Tasks offers twenty base colors available from Google's material design [color p
 
 ### Accents
 
-Tasks offers seventeen accent colors available from Google's material design [color palette](https://material.io/guidelines/style/color.html#color-color-palette). You may choose one accent color to use throughout the app
+Tasks offers seventeen accent colors available from Google's material design [color palette](https://material.io/guidelines/style/color.html#color-color-palette). Once accent color may be selected at a time
 
 ### Widget
 
-When setting up a widget you may combine the light, black, or dark theme with any one of Tasks color options
+When setting up a widget you may combine the light, black, or dark theme with one of Tasks color options

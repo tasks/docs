@@ -3,7 +3,11 @@ id: tasker
 title: Tasker Plugins
 ---
 
+[Tasker](https://tasker.joaoapps.com/) is an Android app used for performing automated actions based on contexts such as time and location. Tasker plugins may also be used with [Automate](http://llamalab.com/automate/)
+
 ## List Notification
+
+Work in progress
 
 ## Create task
 
