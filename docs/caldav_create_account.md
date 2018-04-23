@@ -5,7 +5,7 @@ title: Choosing a provider
 
 You can synchronize Tasks with a variety of proprietary or open source calendar servers, however not all calendar servers support to-do lists. You can set up a free or paid account with a third party service, or you can choose to set up your own calendar server. 
 
-The following is not an exhaustive list of compatible services. If you discover that Tasks is compatible with a service not listed here please [let me know](support@tasks.org)
+The following is not an exhaustive list of compatible services. If you discover that Tasks is compatible with a service not listed here please [let me know](mailto:support@tasks.org)
 
 ### Third-party services
 
