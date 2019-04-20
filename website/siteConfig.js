@@ -8,9 +8,9 @@
 const siteConfig = {
   title: 'Tasks' /* title for your website */,
   tagline: 'Astrid To-Do List Clone',
-  url: 'http://tasks.org' /* your website url */,
+  url: 'https://tasks.org/' /* your website url */,
   baseUrl: '/' /* base url for your project */,
-  projectName: 'tasks',
+  projectName: 'tasks.org',
   headerLinks: [
     {doc: 'what_is_astrid', label: 'Docs'},
     {page: 'help', label: 'Help'},
