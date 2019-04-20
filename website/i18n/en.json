@@ -4,33 +4,74 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "Astrid To-Do List Clone",
-    "backups": "Backups",
-    "caldav_create_account": "Choosing a provider",
-    "caldav_icloud": "iCloud synchronization",
-    "caldav_intro": "CalDAV",
-    "Introduction": "Introduction",
-    "caldav_setup_account": "Add your account to Tasks",
-    "develop": "Getting started with development",
-    "donate": "Donate",
-    "google_tasks_intro": "Google Tasks",
-    "google_tasks_setup": "Add your account to Tasks",
-    "manual_sort_mode": "Manual sorting",
-    "notifications": "Notifications",
-    "pre_release_testing": "Pre-release testing",
-    "Beta testing": "Beta testing",
-    "subscribe": "Subscribe",
-    "tasker": "Tasker Plugins",
-    "themes": "Themes",
-    "translations": "Translations",
-    "what_is_astrid": "What is Astrid?",
-    "Docs": "Docs",
-    "Help": "Help",
-    "Blog": "Blog",
-    "General": "General",
-    "In-App Purchases": "In-App Purchases",
-    "CalDAV": "CalDAV",
-    "Google Tasks": "Google Tasks",
-    "First Category": "First Category"
+    "docs": {
+      "backups": {
+        "title": "Backups"
+      },
+      "caldav_create_account": {
+        "title": "Choosing a provider"
+      },
+      "caldav_icloud": {
+        "title": "iCloud synchronization"
+      },
+      "caldav_intro": {
+        "title": "CalDAV",
+        "sidebar_label": "Introduction"
+      },
+      "caldav_setup_account": {
+        "title": "Add your account to Tasks"
+      },
+      "develop": {
+        "title": "Getting started with development"
+      },
+      "donate": {
+        "title": "Donate"
+      },
+      "google_tasks_intro": {
+        "title": "Google Tasks",
+        "sidebar_label": "Introduction"
+      },
+      "google_tasks_setup": {
+        "title": "Add your account to Tasks"
+      },
+      "manual_sort_mode": {
+        "title": "Manual sorting"
+      },
+      "notifications": {
+        "title": "Notifications"
+      },
+      "pre_release_testing": {
+        "title": "Pre-release testing",
+        "sidebar_label": "Beta testing"
+      },
+      "subscribe": {
+        "title": "Subscribe"
+      },
+      "tasker": {
+        "title": "Tasker Plugins"
+      },
+      "themes": {
+        "title": "Themes"
+      },
+      "translations": {
+        "title": "Translations"
+      },
+      "what_is_astrid": {
+        "title": "What is Astrid?"
+      }
+    },
+    "links": {
+      "Docs": "Docs",
+      "Help": "Help",
+      "Blog": "Blog"
+    },
+    "categories": {
+      "General": "General",
+      "In-App Purchases": "In-App Purchases",
+      "CalDAV": "CalDAV",
+      "Google Tasks": "Google Tasks",
+      "First Category": "First Category"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
