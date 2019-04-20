@@ -27,4 +27,4 @@ Log in to [icloud.com/calendar](https://www.icloud.com/calendar)
 4. Click 'Cancel' so that your calendar is not made public
 5. Use the host from step three when setting up your account in Tasks. In this example the user would enter ```https://p11-calendars.icloud.com```
 
-![iCloud setup](/img/icloud_setup.png)
+![iCloud setup](assets/icloud_setup.png)

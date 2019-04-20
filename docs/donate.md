@@ -10,6 +10,6 @@ If you would like to provide a financial contribution to Tasks please consider [
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alex@tasks.org)
 * Send bitcoin to 136mW34jW3cmZKhxuTDn3tHXMRwbbaRU8s
 
-![Bitcoin](/img/bitcoin.svg)
+![Bitcoin](assets/bitcoin.svg)
  
 
