@@ -42,12 +42,6 @@ class Footer extends React.Component {
           <div>
             <h5>Community</h5>
             <a
-              href="https://plus.google.com/communities/108502375869946904382"
-              target="_blank"
-              rel="noreferrer noopener">
-              Google+
-            </a>
-            <a
               href="https://twitter.com/tasks_org"
               target="_blank"
               rel="noreferrer noopener">
