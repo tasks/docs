@@ -3,8 +3,6 @@ id: caldav_setup_account
 title: Add your account to Tasks
 ---
 
-**CalDAV synchronization is currently in [beta testing](pre_release_testing.md)**
-
 Select ```Tasks settings > Synchronization > CalDAV > Add account``` and enter the following details:
 
 * **Name** to be displayed in the navigation drawer
