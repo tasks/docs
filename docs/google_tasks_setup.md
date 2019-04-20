@@ -3,8 +3,6 @@ id: google_tasks_setup
 title: Add your account to Tasks
 ---
 
-**Google Play Services are required for Google Task synchronization**
-
 To get started select ```Tasks settings > Synchronization > Google Tasks > Add account```
 
 ### Grant the contacts permission
