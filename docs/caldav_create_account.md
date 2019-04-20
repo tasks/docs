@@ -11,6 +11,7 @@ The following is not an exhaustive list of compatible services. If you discover 
 
 * [NextCloud hosting partners](https://nextcloud.com/providers/)
 * [OwnCloud hosting partners](https://owncloud.org/hosting-partners/)
+* [Fastmail](https://fastmail.com)
 * [fruux](https://fruux.com/)
 * [Apple iCloud](caldav_icloud.md)
 
@@ -20,4 +21,4 @@ The following is not an exhaustive list of compatible services. If you discover 
 * [xandikos](https://xandikos.org/)
 * [Baïkal](http://sabre.io/baikal/)
 * [sabre/dav](http://sabre.io/)
-* [macOS Server](https://itunes.apple.com/us/app/macos-server/id883878097) or [CalendarServer](https://www.calendarserver.org/)
+* [Apple CalendarServer](https://www.calendarserver.org/)
