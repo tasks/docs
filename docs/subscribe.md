@@ -3,7 +3,7 @@ id: subscribe
 title: Subscribe
 ---
 
-Tasks is [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) and does not collect or sell your personal information. In order to support development some features require an annual subscription. Subscriptions come with a 30-day free trial and you can [cancel at any time](https://support.google.com/googleplay/answer/7018481)
+Tasks is [free and open-source software](https://en.wikipedia.org/wiki/Free_and_open-source_software) and does not collect or sell your personal information. In order to support development some features require an annual subscription. Subscriptions come with a 14-day free trial, and you can cancel your [Play Store](https://support.google.com/googleplay/answer/7018481) or [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=201357590) subscription at any time.
 
 Subscribe now to unlock the following features:
 
