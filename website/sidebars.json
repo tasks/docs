@@ -1,6 +1,6 @@
 {
   "docs": {
-    "General": ["what_is_astrid", "pre_release_testing", "backups", "manual_sort_mode", "translations", "develop"],
+    "General": ["what_is_astrid", "pre_release_testing", "location", "backups", "manual_sort_mode", "translations", "develop"],
     "In-App Purchases": ["subscribe", "donate", "themes", "tasker"],
     "CalDAV": ["caldav_intro", "caldav_create_account", "caldav_setup_account", "caldav_icloud"],
     "Google Tasks": ["google_tasks_intro", "google_tasks_setup"]
