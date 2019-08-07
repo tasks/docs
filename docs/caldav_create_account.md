@@ -19,6 +19,7 @@ The following is not an exhaustive list of compatible services. If you discover 
 * [NextCloud](https://nextcloud.com)
 * [OwnCloud](https://owncloud.org)
 * [xandikos](https://xandikos.org/)
+* [Radicale](https://radicale.org)
 * [Baïkal](http://sabre.io/baikal/)
 * [sabre/dav](http://sabre.io/)
 * [Apple CalendarServer](https://www.calendarserver.org/)
