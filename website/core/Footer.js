@@ -35,8 +35,14 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('what_is_astrid.html', this.props.language)}>
-              Troubleshooting
+            <a href={this.docUrl('caldav_intro.html', this.props.language)}>
+              CalDAV
+            </a>
+            <a href={this.docUrl('google_tasks_intro.html', this.props.language)}>
+              Google Tasks
+            </a>
+            <a href={this.docUrl('subscribe.html', this.props.language)}>
+              Subscribe
             </a>
           </div>
           <div>
@@ -58,7 +64,6 @@ class Footer extends React.Component {
           </div>
           <div>
             <h5>More</h5>
-            <a href={this.props.config.baseUrl + 'blog'}>Blog</a>
             <a href="https://github.com/tasks">GitHub</a>
             <a
               className="github-button"

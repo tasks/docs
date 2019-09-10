@@ -13,8 +13,7 @@ const siteConfig = {
   projectName: 'tasks.org',
   headerLinks: [
     {doc: 'what_is_astrid', label: 'Docs'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'},
+    {page: 'help', label: 'Help'}
   ],
   // users,
   /* path to images for header/footer */
