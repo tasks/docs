@@ -9,7 +9,7 @@ sidebar_label: Introduction
 Tasks can synchronize a portion of its data through Google Tasks. Given the limited amount of information supported by Google Tasks you will only be able to synchronize the following:
 
 * Title
-* Due date (without time of day)
+* Due date ([without time of day](https://issuetracker.google.com/issues/128979662))
 * Description
 
 No other data can be synchronized through Google Tasks
