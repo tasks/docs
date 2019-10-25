@@ -44,6 +44,9 @@
         "title": "Pre-release testing",
         "sidebar_label": "Beta testing"
       },
+      "privacy": {
+        "title": "Privacy Policy"
+      },
       "subscribe": {
         "title": "Subscribe"
       },
