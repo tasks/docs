@@ -12,6 +12,7 @@ The following is not an exhaustive list of compatible services. If you discover 
 * [NextCloud hosting partners](https://nextcloud.com/providers/)
 * [OwnCloud hosting partners](https://owncloud.org/hosting-partners/)
 * [Fastmail](https://fastmail.com)
+* [Mailbox.org](https://mailbox.org)
 * [fruux](https://fruux.com/)
 * [Apple iCloud](caldav_icloud.md)
 
