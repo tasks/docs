@@ -24,3 +24,4 @@ The following is not an exhaustive list of compatible services. If you discover 
 * [Baïkal](http://sabre.io/baikal/)
 * [sabre/dav](http://sabre.io/)
 * [Apple CalendarServer](https://www.calendarserver.org/)
+* [Synology Calendar](https://www.synology.com/en-us/dsm/feature/calendar)
