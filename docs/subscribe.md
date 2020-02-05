@@ -17,8 +17,9 @@ Subscribe now to unlock the following features:
 
 * [Customize](themes.md) your app with five base themes, 21 theme colors, 17
   accent colors, and 100+ custom list icons
-* Use [CalDAV](caldav_intro.md) to synchronize your lists with Apple Reminders,
-  NextCloud, OwnCloud, [and more](caldav_create_account.md) 
+* Use [CalDAV](caldav_intro.md) to synchronize your lists with NextCloud,
+  OwnCloud, [and more](caldav_create_account.md)
+* Use [EteSync] for secure end-to-end encryption
 * Synchronize with [multiple Google Task accounts](google_tasks_setup.md)
 * Google Places location search
 * Create a new task or trigger a list notification using [Tasker

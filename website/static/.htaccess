@@ -5,6 +5,7 @@ Redirect /translations /docs/translations.html
 Redirect /help/tasker /docs/tasker.html
 Redirect /help /en/help.html
 Redirect /caldav /docs/caldav_intro.html
+Redirect /etesync /docs/etesync_intro.html
 Redirect /changelog https://github.com/tasks/tasks/blob/master/CHANGELOG.md
 Redirect /source https://github.com/tasks/tasks
 Redirect /weblate https://hosted.weblate.org/projects/tasks/android
