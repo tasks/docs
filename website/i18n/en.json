@@ -19,7 +19,7 @@
         "sidebar_label": "About CalDAV"
       },
       "caldav_setup_account": {
-        "title": "Add your account to Tasks"
+        "title": "Adding a CalDAV account"
       },
       "donate": {
         "title": "Donate"
@@ -33,7 +33,7 @@
         "sidebar_label": "About Google Tasks"
       },
       "google_tasks_setup": {
-        "title": "Add your account to Tasks"
+        "title": "Adding a Google Task account"
       },
       "location": {
         "title": "Location"
@@ -53,6 +53,10 @@
       },
       "subscribe": {
         "title": "Subscribe"
+      },
+      "sync": {
+        "title": "Synchronization",
+        "sidebar_label": "Synchronization"
       },
       "tasker": {
         "title": "Tasker Plugins"

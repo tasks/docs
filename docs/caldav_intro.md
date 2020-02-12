@@ -4,15 +4,23 @@ title: CalDAV
 sidebar_label: About CalDAV
 ---
 
-CalDAV [[Wikipedia](https://en.wikipedia.org/wiki/CalDAV)] is an Internet standard for client access to scheduling information on a remote server. CalDAV is typically used for synchronizing calendars with services such as Google Calendar and Apple's iCloud Calendar, however the CalDAV protocol also includes a specification for to-do list entries.
+CalDAV [[Wikipedia](https://en.wikipedia.org/wiki/CalDAV)] is an Internet
+standard for client access to scheduling information on a remote server. CalDAV
+is typically used for synchronizing calendars with services such as Google
+Calendar and Apple's iCloud Calendar, however the CalDAV protocol also includes
+a specification for to-do list entries.
 
-CalDAV support is under active development and additional synchronization capabilities will be added. Currently the following data is synchronized through CalDAV:
+CalDAV support is still under development and additional synchronization
+capabilities will be added. Currently the following data is synchronized
+through CalDAV:
 
 * Title
 * Due date and time
 * Priority
 * Recurrence
 * Description
+* Tags
+* Multi-level subtasks
 
 ### Additional features
 
