@@ -1,7 +1,7 @@
 ---
 id: google_tasks_intro
 title: Google Tasks
-sidebar_label: Introduction
+sidebar_label: About Google Tasks
 ---
 
 [Google Tasks](https://support.google.com/calendar/answer/106237) is a basic task list service provided by Google. Google Tasks can be accessed from GMail, Google Calendar, [mobile](https://www.gmail.com/tasks) and [desktop](https://mail.google.com/tasks/canvas) web interfaces, or a variety of third party clients.

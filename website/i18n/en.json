@@ -16,7 +16,7 @@
       },
       "caldav_intro": {
         "title": "CalDAV",
-        "sidebar_label": "Introduction"
+        "sidebar_label": "About CalDAV"
       },
       "caldav_setup_account": {
         "title": "Add your account to Tasks"
@@ -24,9 +24,13 @@
       "donate": {
         "title": "Donate"
       },
+      "etesync_intro": {
+        "title": "EteSync",
+        "sidebar_label": "About EteSync"
+      },
       "google_tasks_intro": {
         "title": "Google Tasks",
-        "sidebar_label": "Introduction"
+        "sidebar_label": "About Google Tasks"
       },
       "google_tasks_setup": {
         "title": "Add your account to Tasks"
@@ -71,6 +75,7 @@
       "General": "General",
       "In-App Purchases": "In-App Purchases",
       "CalDAV": "CalDAV",
+      "EteSync": "EteSync",
       "Google Tasks": "Google Tasks",
       "First Category": "First Category"
     }
