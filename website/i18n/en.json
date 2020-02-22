@@ -8,9 +8,6 @@
       "backups": {
         "title": "Backups"
       },
-      "caldav_create_account": {
-        "title": "Choosing a provider"
-      },
       "caldav_icloud": {
         "title": "iCloud synchronization"
       },

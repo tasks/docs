@@ -9,15 +9,15 @@ data. Tasks can be used offline, or it can be synchronized with third-party
 services, with support for [Google Tasks](google_tasks_intro.md),
 [CalDAV](caldav_intro.md), and [EteSync](etesync_intro.md)
 
-The following tables provide a comparison of the features available for each
-service
+The following tables provide a comparison of each service
 
 |   | Google Tasks | CalDAV | EteSync |
 | -:|:------------:|:------:|:-------:|
 | In-app subscription required | No [1] | Yes | Yes |
 | Third-party service cost | Free | Free/Paid | Paid |
 | Open-source self-hosting | | Free | Free |
-| Share task lists | | ✓[2] | ✓ |
+| Share task lists | | ✓ [2] | ✓ |
+| Web interface | ✓ | ✓ [2] | ✓ |
 | Manual sorting | ✓ | | |
 | Subtasks | Single-level | Multi-level | Multi-level |
 | End-to-end encryption | | | ✓ |
@@ -40,6 +40,7 @@ table lists the metadata currently synchronized with each service
 | Tags | | ✓ | ✓ |
 | Subtasks | ✓ | ✓ | ✓ |
 | Reminders | | | |
+| Location reminders | | | |
 | Attachments | | | |
 | Description | ✓[3] | ✓ | ✓ |
 | Hide until | | | |
@@ -49,6 +50,6 @@ table lists the metadata currently synchronized with each service
 
 [1]: In-app subscription required to add two or more Google Task accounts
 
-[2]: Not all CalDAV servers support sharing
+[2]: Support varies by CalDAV service
 
 [3]: Limited to 8192 characters
