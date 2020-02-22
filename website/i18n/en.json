@@ -39,7 +39,8 @@
         "title": "Manual sorting"
       },
       "notifications": {
-        "title": "Notifications"
+        "title": "Notification troubleshooting",
+        "sidebar_label": "Notifications"
       },
       "pre_release_testing": {
         "title": "Pre-release testing",
@@ -78,6 +79,7 @@
       "CalDAV": "CalDAV",
       "EteSync": "EteSync",
       "Google Tasks": "Google Tasks",
+      "Troubleshooting": "Troubleshooting",
       "First Category": "First Category"
     }
   },

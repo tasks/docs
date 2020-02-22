@@ -4,7 +4,8 @@
     "In-App Purchases": ["subscribe", "donate", "themes", "tasker"],
     "CalDAV": ["caldav_intro", "caldav_setup_account", "caldav_icloud"],
     "EteSync": ["etesync_intro"],
-    "Google Tasks": ["google_tasks_intro", "google_tasks_setup"]
+    "Google Tasks": ["google_tasks_intro", "google_tasks_setup"],
+    "Troubleshooting": ["notifications"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]

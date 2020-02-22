@@ -10,3 +10,4 @@ Redirect /changelog https://github.com/tasks/tasks/blob/master/CHANGELOG.md
 Redirect /source https://github.com/tasks/tasks
 Redirect /weblate https://hosted.weblate.org/projects/tasks/android
 Redirect /sync /docs/sync.html
+Redirect /notifications /docs/notifications.html
