@@ -41,6 +41,9 @@ class Footer extends React.Component {
             <a href={this.docUrl('google_tasks_intro.html', this.props.language)}>
               Google Tasks
             </a>
+            <a href={this.docUrl('etesync_intro.html', this.props.language)}>
+              EteSync
+            </a>
             <a href={this.docUrl('subscribe.html', this.props.language)}>
               Subscribe
             </a>
