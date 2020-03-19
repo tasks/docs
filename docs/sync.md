@@ -21,6 +21,7 @@ The following tables provide a comparison of each service
 | Manual sorting | ✓ | | |
 | Subtasks | Single-level | Multi-level | Multi-level |
 | End-to-end encryption | | | ✓ |
+| Minimum Android version | 4.4 | 4.1 | 4.1 |
 
 Not all task information synchronizes with third party services. The following
 table lists the metadata currently synchronized with each service
@@ -33,16 +34,16 @@ table lists the metadata currently synchronized with each service
 | Creation date | ✓ | ✓ | ✓ |
 | Modification date | ✓ | ✓ | ✓ |
 | Completion date | ✓ | ✓ | ✓ |
+| Subtasks | ✓ | ✓ | ✓ |
+| Description | ✓[3] | ✓ | ✓ |
+| Priority | | ✓ | ✓ |
+| Location | | ✓ | ✓ |
+| Tags | | ✓ | ✓ |
 | Recurrence | | ✓ | ✓ |
 | Repeat after completion | | | |
-| Priority | | ✓ | ✓ |
-| Location | | | |
-| Tags | | ✓ | ✓ |
-| Subtasks | ✓ | ✓ | ✓ |
 | Reminders | | | |
 | Location reminders | | | |
 | Attachments | | | |
-| Description | ✓[3] | ✓ | ✓ |
 | Hide until | | | |
 | Calendar event | | | |
 | Timer | | | |
