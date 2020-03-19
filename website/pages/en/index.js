@@ -82,7 +82,6 @@ class HomeSplash extends React.Component {
           <PromoSection>
             <Button href="https://play.google.com/store/apps/details?id=org.tasks&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Get it on Google Play</Button>
             <Button href="https://f-droid.org/packages/org.tasks/">Get it on F-Droid</Button>
-            <Button href="https://www.amazon.com/dp/B00QHGTL7O">Get it on Amazon</Button>
           </PromoSection>
         </div>
       </SplashContainer>
