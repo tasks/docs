@@ -25,6 +25,10 @@
         "title": "EteSync",
         "sidebar_label": "About EteSync"
       },
+      "filters": {
+        "title": "Custom filters",
+        "sidebar_label": "Filters"
+      },
       "google_tasks_intro": {
         "title": "Google Tasks",
         "sidebar_label": "About Google Tasks"

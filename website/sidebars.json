@@ -1,6 +1,6 @@
 {
   "docs": {
-    "General": ["what_is_astrid", "sync", "location", "backups", "manual_sort_mode", "pre_release_testing", "translations", "privacy"],
+    "General": ["what_is_astrid", "sync", "filters", "location", "backups", "manual_sort_mode", "pre_release_testing", "translations", "privacy"],
     "In-App Purchases": ["subscribe", "donate", "themes", "tasker"],
     "CalDAV": ["caldav_intro", "caldav_setup_account", "caldav_icloud"],
     "EteSync": ["etesync_intro"],
