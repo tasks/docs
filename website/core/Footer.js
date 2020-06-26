@@ -35,32 +35,32 @@ class Footer extends React.Component {
           </a>
           <div>
             <h5>Docs</h5>
-            <a href={this.docUrl('caldav_intro.html', this.props.language)}>
+            <a href={this.docUrl('caldav_intro.html')}>
               CalDAV
             </a>
-            <a href={this.docUrl('google_tasks_intro.html', this.props.language)}>
+            <a href={this.docUrl('google_tasks_intro.html')}>
               Google Tasks
             </a>
-            <a href={this.docUrl('etesync_intro.html', this.props.language)}>
+            <a href={this.docUrl('etesync_intro.html')}>
               EteSync
             </a>
-            <a href={this.docUrl('subscribe.html', this.props.language)}>
+            <a href={this.docUrl('subscribe.html')}>
               Subscribe
             </a>
           </div>
           <div>
             <h5>Community</h5>
             <a
+              href="https://reddit.com/r/tasks"
+              target="_blank"
+              rel="noreferrer noopener">
+              Reddit
+            </a>
+            <a
               href="https://twitter.com/tasks_org"
               target="_blank"
               rel="noreferrer noopener">
               Twitter
-            </a>
-            <a
-                href="https://www.facebook.com/tasks.org"
-                target="_blank"
-                rel="noreferrer noopener">
-              Facebook
             </a>
             <br/>
             <br/>
