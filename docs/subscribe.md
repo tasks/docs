@@ -6,7 +6,7 @@ title: Subscribe
 Tasks is [free and open-source
 software](https://en.wikipedia.org/wiki/Free_and_open-source_software) and does
 not collect or sell your personal information. In order to support development
-some features require an annual subscription.
+some features require an annual subscription
 
 * **You choose your subscription price!** Pay as little as $1 per year. All
   subscribers receive the same benefits
@@ -24,15 +24,18 @@ Subscribe now to unlock the following features:
 * Google Places location search
 * Create a new task or trigger a list notification using [Tasker
   plugins](tasker.md)
-* DashClock extension
 
-# Legacy subscription
+### F-Droid
+
+F-Droid users do not require a subscription. [Donations](donate.md) are highly appreciated!
+
+### Legacy subscription
 
 Prior to version 6.8 Tasks offered a single subscription price.
 
 After upgrading to version 6.8 you may choose a new subscription price. The remaining portion of your current subscription will be prorated based on the new subscription term.
 
-# Legacy in-app purchases
+### Legacy in-app purchases
 
 Prior to version 6.0 Tasks offered in-app purchases that unlocked specific features.
 
