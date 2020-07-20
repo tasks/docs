@@ -18,10 +18,9 @@ The following tables provide a comparison of each service
 | Open-source self-hosting | | Free | Free |
 | Share task lists | | ✓ [2] | ✓ |
 | Web interface | ✓ | ✓ [2] | ✓ |
-| Manual sorting | ✓ | | |
+| Manual sorting | ✓ | ✓ | ✓ |
 | Subtasks | Single-level | Multi-level | Multi-level |
 | End-to-end encryption | | | ✓ |
-| Minimum Android version | 4.4 | 4.1 | 4.1 |
 
 Not all task information synchronizes with third party services. The following
 table lists the metadata currently synchronized with each service
