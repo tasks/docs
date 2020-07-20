@@ -19,7 +19,7 @@ are missing, outdated, or incorrect, please [send me an e-mail](mailto:support@t
 | [Nextcloud](https://nextcloud.com/providers/) | Free/Paid | ✓ | ✓ [1] | ✓ |
 | [Owncloud](https://owncloud.org/hosting-partners/) | Free/Paid | ✓ | ✓ [1] | ✓ |
 | [Fastmail](https://fastmail.com/) | Paid | | | |
-| [Mailbox.org](https://mailbox.org) | Paid | | ✓ | ✓ |
+| [Mailbox.org](https://mailbox.org) | Paid | | | ✓ |
 | [fruux](https://fruux.com) | Free/Paid | | ✓ [2] | ✓ |
 | [xandikos](https://xandikos.org) | | ✓ | | |
 | [Radicale](https://radicale.org) | | ✓ | | |
