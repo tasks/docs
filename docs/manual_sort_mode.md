@@ -13,6 +13,7 @@ re-arrange it, or move it to the side to turn it into a subtask
 * Google Task lists
 * CalDAV lists
 * EteSync lists
+* DAVx⁵ lists
 
 `My order` is not yet supported for:
 
@@ -27,17 +28,11 @@ bug](https://issuetracker.google.com/issues/132432317) in the Google Tasks API.
 This setting will force Tasks to always perform a full synchronization of your
 custom ordering and subtask information
 
-### CalDAV and EteSync lists
+### CalDAV, DAVx⁵, and EteSync lists
 
 Tasks implements `My order` using `x-apple-sort-order`, a non-standard
 extension to the iCalendar protocol. This sort order is compatible with Apple
 Reminders and Nextcloud Tasks.
-
-### DAVx⁵ and EteSync Android client
-
-`My order` is only supported when Tasks synchronizes directly with your CalDAV
-or EteSync host. Due to technical limitiations, `My order` is not supported
-when synchronizing through DAVx⁵ or the EteSync Android client
 
 ### Astrid manual sorting
 
