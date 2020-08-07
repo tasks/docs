@@ -10,6 +10,7 @@ support:
 
 * [Liberapay](https://liberapay.com/tasks/donate)
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alex@tasks.org)
+* [Sponsor me](https://github.com/sponsors/abaker) on GitHub
 * Send bitcoin to 136mW34jW3cmZKhxuTDn3tHXMRwbbaRU8s
 
 ![Bitcoin](assets/bitcoin.svg)
