@@ -1,10 +1,8 @@
 {
   "docs": {
-    "General": ["what_is_astrid", "sync", "filters", "location", "backups", "manual_sort_mode", "pre_release_testing", "translations", "privacy"],
+    "General": ["what_is_astrid", "filters", "location", "backups", "manual_sort_mode", "pre_release_testing", "translations", "privacy"],
+    "Synchronization": ["sync", "google_tasks_intro", "caldav_intro", "davx5", "etesync_intro", "caldav_icloud"],
     "In-App Purchases": ["subscribe", "donate", "themes", "tasker"],
-    "CalDAV": ["caldav_intro", "caldav_setup_account", "caldav_icloud"],
-    "EteSync": ["etesync_intro"],
-    "Google Tasks": ["google_tasks_intro", "google_tasks_setup"],
     "Troubleshooting": ["notifications"]
   },
   "docs-other": {

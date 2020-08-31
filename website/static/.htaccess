@@ -12,3 +12,4 @@ Redirect /weblate https://hosted.weblate.org/projects/tasks/android
 Redirect /sync /docs/sync.html
 Redirect /notifications /docs/notifications.html
 Redirect /filters /docs/filters.html
+Redirect /davx5 /docs/davx5.html

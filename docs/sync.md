@@ -1,7 +1,7 @@
 ---
 id: sync
 title: Synchronization
-sidebar_label: Synchronization
+sidebar_label: Introduction
 ---
 
 Tasks.org does not host any synchronization services or have access to your
