@@ -13,3 +13,4 @@ Redirect /sync /docs/sync.html
 Redirect /notifications /docs/notifications.html
 Redirect /filters /docs/filters.html
 Redirect /davx5 /docs/davx5.html
+Redirect /backups /docs/backups.html
