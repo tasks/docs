@@ -17,8 +17,8 @@ Subscribe now to unlock the following features:
 
 * [Customize](themes.md) your app with five base themes, 21 theme colors, 17
   accent colors, and 100+ custom list icons
-* Use [CalDAV](caldav_intro.md) to synchronize your lists with NextCloud,
-  OwnCloud, [and more](caldav_create_account.md)
+* Use [CalDAV](caldav_intro.md) or [DAVx⁵](davx5.md) to synchronize your lists
+  with NextCloud, OwnCloud, [and more](caldav_intro.md)
 * Use [EteSync](https://etesync.com) for secure end-to-end encryption
 * Synchronize with [multiple Google Task accounts](google_tasks_intro.md)
 * Google Places location search

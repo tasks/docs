@@ -7,12 +7,9 @@ sidebar_label: Introduction
 Tasks.org does not host any synchronization services or have access to your
 data. Tasks can be used offline, or it can be synchronized with third-party
 services, with support for [Google Tasks](google_tasks_intro.md),
-[CalDAV](caldav_intro.md), and [EteSync](etesync_intro.md).
-
-Currently in [alpha testing](pre_release_testing.md): Tasks can also synchronize with
-[DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) or
-the [EteSync Android
-client](https://play.google.com/store/apps/details?id=com.etesync.syncadapter&hl=en_US)
+[CalDAV](caldav_intro.md),
+[DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid), and
+[EteSync](etesync_intro.md).
 
 The following tables provide a comparison of services and features supported by
 Tasks

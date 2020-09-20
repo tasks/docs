@@ -3,13 +3,40 @@ id: davx5
 title: DAVx⁵
 sidebar_label: DAVx⁵
 ---
-DAVx⁵ support was added to Tasks v10.0 but **the official DAVx⁵ client has not
-released support for Tasks.org yet!**
+[DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) can
+be used to synchronize your CalDAV data with Tasks
 
-If you are willing to help test this new feature please install a test DAVx⁵
-build based on [this merge
-request](https://gitlab.com/bitfireAT/davx5-ose/-/merge_requests/37).
+### DAVx⁵ vs CalDAV
 
-Click [here](https://tasks.org/apks/davx5_tasks.apk) to download the test DAVx⁵
-APK. This build is provided by Tasks.org and is intended for testing purposes
-only until the official DAVx⁵ client supports Tasks.org
+Both options provide nearly identical functionality, with the exception that
+Tasks cannot create, rename, colorize, or delete your CalDAV lists when
+synchronizing with DAVx⁵.
+
+Tasks will ignore your DAVx⁵ data if you have set up CalDAV synchronization for
+the same account.
+
+### Adding an account
+
+Your data will automatically appear in Tasks after setting up DAVx⁵. Refer to
+the following DAVx⁵ infographic for setup instructions.
+
+![DAVx⁵ setup](assets/davx5_3_3_2-announcement.png)
+
+### Troubleshooting
+
+Make sure DAVx⁵ integration is configured properly
+
+1. Open the DAVx⁵ app
+2. Tap `☰ > Settings`
+    * Make sure `App permissions > Tasks permissions` is toggled on
+    * Make sure `Integration > Tasks app > Tasks` is checked
+
+Make sure at least one task list is synchronized
+
+1. Open the DAVx⁵ app
+2. Tap on your account
+3. Tap on the `CALDAV` tab
+4. Tap `⋮ > Refresh calendar list`
+5. Check at least one task list
+6. Tap on `🗘` to initiate synchronization
+
