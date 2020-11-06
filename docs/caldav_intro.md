@@ -23,7 +23,7 @@ are missing, outdated, or incorrect, please [send me an e-mail](mailto:support@t
 | [fruux](https://fruux.com) | Free/Paid | | ✓ [2] | ✓ |
 | [xandikos](https://xandikos.org) | | ✓ | | |
 | [Radicale](https://radicale.org) | | ✓ | | |
-| [Baïkal](http://sabre.io/baikal/) | | ✓ | | |
+| [Baïkal](http://sabre.io/baikal/) | | ✓ | | ✓ |
 | [sabre/dav](http://sabre.io/) | | ✓ | | |
 | [Synology Calendar](https://www.synology.com/en-us/dsm/feature/calendar) | | ✓ | | |
 | [Apple CalendarServer](https://www.calendarserver.org/) | | ✓ | | |
