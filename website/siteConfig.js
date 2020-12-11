@@ -49,10 +49,10 @@ const siteConfig = {
   },
   scripts: ['https://buttons.github.io/buttons.js'],
   // You may provide arbitrary config keys to be used as needed by your template.
-  repoUrl: 'https://github.com/tasks/tasks',
+  repoUrl: 'https://github.com/tasks/tasks'
   /* On page navigation for the current documentation page */
   // onPageNav: 'separate',
-  gaTrackingId: "UA-43015607-4",
+  //gaTrackingId: "UA-43015607-4",
 };
 
 module.exports = siteConfig;
