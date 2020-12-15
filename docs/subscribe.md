@@ -4,39 +4,67 @@ title: Subscribe
 ---
 
 Tasks is [free and open-source
-software](https://en.wikipedia.org/wiki/Free_and_open-source_software) and does
-not collect or sell your personal information. In order to support development
-some features require an annual subscription
+software](https://en.wikipedia.org/wiki/Free_and_open-source_software) that
+does not display advertisements or sell your personal information. In order to
+support development some features require a subscription
 
-* **You choose your subscription price!** Pay as little as $1 per year. All
-  subscribers receive the same benefits
-* Subscriptions come with a 7-day free trial
-* Upgrade, downgrade, or cancel your subscription at any time
+Google Play subscriptions come with a 7-day free trial. You can upgrade,
+downgrade, or cancel your subscription at any time
 
-Subscribe now to unlock the following features:
+### Synchronization with Tasks.org
 
-* [Customize](themes.md) your app with five base themes, 21 theme colors, 17
-  accent colors, and 100+ custom list icons
-* Use [CalDAV](caldav_intro.md) or [DAVx⁵](davx5.md) to synchronize your lists
-  with NextCloud, OwnCloud, [and more](caldav_intro.md)
-* Use [EteSync](https://etesync.com) for secure end-to-end encryption
-* Synchronize with [multiple Google Task accounts](google_tasks_intro.md)
-* Google Places location search
-* Create a new task or trigger a list notification using [Tasker
-  plugins](tasker.md)
+In order to synchronize your data with Tasks.org's synchronization service, as
+well as unlock all in-app purchases, you must maintain one of the following:
+
+* Google Play subscription for $2.99/month or $29.99/year
+* [GitHub sponsorship](https://github.com/sponsors/abaker) for $3/month
+
+### Choose your own subscription price
+
+Tasks also offers the option of choosing your own subscription price. You can
+unlock all in-app features for as little as $0.99/year, however you will not
+have access to the Tasks.org synchronization service
+
+### One-time purchases
+
+I know you hate subscriptions. I don't like them either.
+
+Mobile apps must be maintained and supported forever, and one-time purchases
+are not an effective method of funding development¹. When one-time sales dry up
+then developers abandon the app. Subscriptions give them an incentive to
+keep you happy.
+
+Tasks does not offer a one-time purchase option, however there is a "hack" to
+unlock the app for many years:
+
+1. Tap on `☰ > Help & feedback`
+2. Tap on `Upgrade to pro > More options`, and choose a price. Every $1 will
+   unlock the app for approximately one year, i.e. $4.99 ≈ 5 years, $9.99 ≈ 10
+   years, $24.99 ≈ 25 years
+   * **Note:** You must wait until your trial period ends and your account is
+     charged before continuing with step 3
+3. Tap on `Modify subscription > More options` and choose `$0.99/year`. Google
+   will apply your existing balance towards the new subscription. The Google
+   Play purchase pop-up will confirm your new expiration date
+4. Feel free to cancel your new subscription so that it does not auto-renew
+
+¹ I'm making a broad generalization, but my Play Store purchase history is
+littered with one-time purchases that were abandoned by their developers years
+ago
 
 ### F-Droid
 
-F-Droid users do not require a subscription. [Donations](donate.md) are highly appreciated!
+F-Droid users do not require a subscription to unlock all in-app features.
+[Donations](donate.md) are highly appreciated!
 
-### Legacy subscription
+F-Droid users who wish to synchronize their data with Tasks.org's
+synchronization service require a GitHub sponsorship or Google Play
+subscription.
 
-Prior to version 6.8 Tasks offered a single subscription price.
-
-After upgrading to version 6.8 you may choose a new subscription price. The remaining portion of your current subscription will be prorated based on the new subscription term.
-
-### Legacy in-app purchases
-
-Prior to version 6.0 Tasks offered in-app purchases that unlocked specific features.
-
-All previous purchases remain effective. If you made a previous purchase and you do not need any new functionality provided by the subscription then you **do not** need to subscribe.
+To use a Google Play subscription with the F-Droid release:
+1. Install Tasks.org's [Google Play
+   release](https://play.google.com/store/apps/details?id=org.tasks)
+2. Launch Tasks, tap on `☰ > Settings > Tasks.org > Sign in with Google`, and
+   purchase a subscription
+3. Uninstall the Google Play release and install the F-Droid release
+4. Tap on `☰ > Settings > Tasks.org > Sign in with Google`
