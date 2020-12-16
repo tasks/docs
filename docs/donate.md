@@ -8,7 +8,9 @@ If you would like to provide a financial contribution to Tasks please consider a
 not subscribe, there are a few alternative methods of providing financial
 support:
 
-* [Liberapay](https://liberapay.com/tasks/donate)
+* [Liberapay](https://liberapay.com/tasks)
+* [Open Collective](https://opencollective.com/tasks)
+* [Patreon](https://www.patreon.com/tasks)
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alex@tasks.org)
 * [Sponsor me](https://github.com/sponsors/abaker) on GitHub (GitHub will match your contribution!)
 * Send bitcoin to [136mW34jW3cmZKhxuTDn3tHXMRwbbaRU8s](bitcoin:136mW34jW3cmZKhxuTDn3tHXMRwbbaRU8s)
