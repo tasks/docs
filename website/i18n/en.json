@@ -5,6 +5,9 @@
     "previous": "Previous",
     "tagline": "Astrid To-Do List Clone",
     "docs": {
+      "app_passwords": {
+        "title": "App passwords"
+      },
       "backups": {
         "title": "Backups"
       },
