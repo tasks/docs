@@ -4,59 +4,58 @@ title: Synchronization
 sidebar_label: Introduction
 ---
 
-Tasks.org does not host any synchronization services or have access to your
-data. Tasks can be used offline, or it can be synchronized with third-party
-services, with support for [Google Tasks](google_tasks_intro.md),
-[CalDAV](caldav_intro.md),
-[DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid), and
-[EteSync](etesync_intro.md).
+Tasks can be used offline, synchronized with Tasks.org's CalDAV-based platform,
+or synchronized with a variety of third-party apps and services
 
 The following tables provide a comparison of services and features supported by
 Tasks
 
-|   | Google Tasks | DAVx⁵ | CalDAV | EteSync client | EteSync |
-| -:|:------------:|:-----:|:------:|:--------------:|:-------:|
-| In-app subscription required | No¹ | Yes | Yes | Yes | Yes |
-| Third-party service cost | Free | Free/Paid | Free/Paid | Paid | Paid |
-| Open-source self-hosting | | Free | Free | Free | Free |
-| Subtasks | Single-level | Multi-level | Multi-level | Multi-level | Multi-level |
-| Web interface | ✓ | ✓² | ✓² | ✓ | ✓ |
-| Share task lists | | ✓² | ✓² | ✓ | ✓ |
-| [Manual sorting](manual_sort_mode.md) | ✓ | ✓ | ✓ | ✓ | ✓ |
-| Create lists | ✓ | | ✓ | | ✓ |
-| Rename lists | ✓ | | ✓ | | ✓ |
-| Delete lists | ✓ | | ✓ | | ✓ |
-| Change list color | | | ✓ | | ✓ |
-| End-to-end encryption | | | | ✓ | ✓ |
+|   | Tasks.org | [Google Tasks](google_tasks_intro.md) | [DAVx⁵](davx5.md) | [CalDAV](caldav_intro.md) | [EteSync app](etesync_intro.md) | [EteSync](etesync_intro.md) | [DecSync CC](decsync.md) |
+| -:|:---:|:------------:|:-----:|:------:|:--------------:|:-------:|:------------:|
+| In-app subscription required | Yes¹ | No² | Yes | Yes | Yes | Yes | Yes |
+| Third-party service cost | | Free | Free/Paid | Free/Paid | Paid | Paid | |
+| Open-source self-hosting | | | Free | Free | Free | Free | |
+| Subtasks | Multi-level | Single-level | Multi-level | Multi-level | Multi-level | Multi-level | Multi-level |
+| Web interface | | ✓ | ✓³ | ✓³ | ✓ | ✓ | |
+| Share task lists | | | ✓³ | ✓³ | ✓ | ✓ | |
+| [Manual sorting](manual_sort_mode.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Create lists | ✓ | ✓ | | ✓ | | ✓ | |
+| Rename lists | ✓ | ✓ | | ✓ | | ✓ | |
+| Delete lists | ✓ | ✓ | | ✓ | | ✓ | |
+| Change list color | ✓ | | | ✓ | | ✓ | |
+| End-to-end encryption | | | | | ✓ | ✓ | |
 
 Not all task information synchronizes with third party services. The following
 table lists the metadata currently synchronized with each service
 
-|   | Google Tasks | CalDAV/DAVx⁵| EteSync |
-| -:|:------------:|:-----------:|:-------:|
-| Title | ✓ | ✓ | ✓ |
-| Due date | ✓ | ✓ | ✓ |
-| Due time | | ✓ | ✓ |
-| Creation date | ✓ | ✓ | ✓ |
-| Modification date | ✓ | ✓ | ✓ |
-| Completion date | ✓ | ✓ | ✓ |
-| Subtasks | ✓ | ✓ | ✓ |
-| Description | ✓³ | ✓ | ✓ |
-| Priority | | ✓ | ✓ |
-| Location | | ✓ | ✓ |
-| Tags | | ✓ | ✓ |
-| Recurrence | | ✓ | ✓ |
-| Repeat after completion | | | |
-| Reminders | | | |
-| Location reminders | | | |
-| Attachments | | | |
-| Hide until | | | |
-| Calendar event | | | |
-| Timer | | | |
-| Comments | | | |
+|   | Tasks.org | Google Tasks | DAVx⁵ / EteSync app / DecSync CC| CalDAV | EteSync |
+| -:|:---:|:------------:|:-----------:|:-------:|:------:|
+| Title | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Due date | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Due time | ✓ | | ✓ | ✓ | ✓ |
+| Creation date | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Modification date | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Completion date | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Subtasks | ✓ | ✓ | ✓ | ✓ | ✓ |
+| Description | ✓ | ✓⁴ | ✓ | ✓ | ✓ |
+| Priority | ✓ | | ✓ | ✓ | ✓ |
+| Location | ✓ | | ✓ | ✓ | ✓ |
+| Tags | ✓ | | ✓ | ✓ | ✓ |
+| Recurrence | ✓ | | ✓ | ✓ | ✓ |
+| Repeat after completion | | | | | |
+| Reminders | | | | | |
+| Location reminders | | | | | |
+| Attachments | | | | | |
+| Hide until | | | | | |
+| Calendar event | | | | | |
+| Timer | | | | | |
+| Comments | | | | | |
 
-¹ In-app subscription required to add two or more Google Task accounts
+¹ Google Play subscription or [GitHub
+sponsorship](https://github.com/sponsors/abaker) required
 
-² Support varies by CalDAV service
+² In-app subscription required to add two or more Google Task accounts
 
-³ Limited to 8192 characters
+³ Support varies by CalDAV service
+
+⁴ Limited to 8192 characters

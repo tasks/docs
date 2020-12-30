@@ -19,6 +19,10 @@
         "title": "DAVx⁵",
         "sidebar_label": "DAVx⁵"
       },
+      "decsync": {
+        "title": "DecSync CC",
+        "sidebar_label": "DecSync CC"
+      },
       "donate": {
         "title": "Donate"
       },

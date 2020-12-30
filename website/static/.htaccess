@@ -15,3 +15,4 @@ Redirect /filters /docs/filters.html
 Redirect /davx5 /docs/davx5.html
 Redirect /backups /docs/backups.html
 Redirect /.well-known/caldav https://caldav.tasks.org
+Redirect /decsync /docs/decsync.html
