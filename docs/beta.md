@@ -1,6 +1,6 @@
 ---
-id: pre_release_testing
-title: Pre-release testing
+id: beta
+title: Early access
 sidebar_label: Beta testing
 ---
 

@@ -1,6 +1,7 @@
 ---
-id: what_is_astrid
-title: Who is Astrid?
+id: about
+title: Welcome
+slug: /
 ---
 
 Astrid [[Wikipedia](https://en.wikipedia.org/wiki/Astrid_(application))] was a popular cross-platform productivity service. In 2013 Yahoo purchased Astrid, later announcing that the service would be discontinued. 

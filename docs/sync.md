@@ -1,11 +1,11 @@
 ---
 id: sync
 title: Synchronization
-sidebar_label: Introduction
+sidebar_label: Synchronization
 ---
 
-Tasks can be used offline, synchronized with Tasks.org's CalDAV-based platform,
-or synchronized with a variety of third-party apps and services
+Tasks can be used offline, synchronized with Tasks.org, or synchronized
+with a variety of third-party apps and services
 
 The following tables provide a comparison of services and features supported by
 Tasks
