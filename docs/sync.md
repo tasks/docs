@@ -7,8 +7,10 @@ sidebar_label: Synchronization
 Tasks can be used offline, synchronized with Tasks.org, or synchronized
 with a variety of third-party apps and services
 
-The following tables provide a comparison of services and features supported by
-Tasks
+Tasks synchronization options, with the exception of Google Tasks, are based on
+the [iCalendar standard](https://en.wikipedia.org/wiki/ICalendar).
+
+The following tables provide a comparison of services and features supported by Tasks
 
 |   | Tasks.org | [Google Tasks](google_tasks_intro.md) | [DAVx⁵](davx5.md) | [CalDAV](caldav_intro.md) | [EteSync app](etesync_intro.md) | [EteSync](etesync_intro.md) | [DecSync CC](decsync.md) |
 | -:|:---:|:------------:|:-----:|:------:|:--------------:|:-------:|:------------:|
@@ -33,6 +35,7 @@ table lists the metadata currently synchronized with each service
 | Title | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Due date | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Due time | ✓ | | ✓ | ✓ | ✓ |
+| Start time | ✓ | | ✓ | ✓ | ✓ |
 | Creation date | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Modification date | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Completion date | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -46,7 +49,6 @@ table lists the metadata currently synchronized with each service
 | Reminders | | | | | |
 | Location reminders | | | | | |
 | Attachments | | | | | |
-| Hide until | | | | | |
 | Calendar event | | | | | |
 | Timer | | | | | |
 | Comments | | | | | |
