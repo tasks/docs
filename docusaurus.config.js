@@ -47,7 +47,7 @@ module.exports = {
           ],
         },
         {
-          title: 'Community',
+          title: 'Social',
           items: [
             {
               html: `
@@ -75,6 +75,10 @@ module.exports = {
         {
           title: 'More',
           items: [
+            {
+              label: 'Chat on Freenode',
+              to: 'https://webchat.freenode.net/?channels=tasks'
+            },
             {
               label: 'Changelog',
               to: 'https://github.com/tasks/tasks/blob/main/CHANGELOG.md'
