@@ -19,7 +19,7 @@ The following tables provide a comparison of services and features supported by 
 | Open-source self-hosting | | | Free | Free | Free | Free | |
 | Subtasks | Multi-level | Single-level | Multi-level | Multi-level | Multi-level | Multi-level | Multi-level |
 | Web interface | | ✓ | ✓³ | ✓³ | ✓ | ✓ | |
-| Share task lists | | | ✓³ | ✓³ | ✓ | ✓ | |
+| [Sharing](sharing.md) | ✓ | | | ✓ | | ✓ | |
 | [Manual sorting](manual_sort_mode.md) | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | Create lists | ✓ | ✓ | | ✓ | | ✓ | |
 | Rename lists | ✓ | ✓ | | ✓ | | ✓ | |
