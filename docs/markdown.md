@@ -15,6 +15,12 @@ Navigate to `☰ > Settings > Look and feel` and toggle on `Edit screen options 
 Markdown`. You may also want to toggle on `Task list options > Show full
 description`
 
+## Widgets & notifications
+
+Due to technical limitations only strikethrough is supported in widgets and
+notifications. All other Markdown features will be rendered as plain text.
+Links will be highlighted but cannot be clicked
+
 ## Supported features
 
 ### Emphasis
