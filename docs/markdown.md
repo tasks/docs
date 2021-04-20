@@ -6,20 +6,23 @@ title: Markdown
 Markdown ([Wikipedia](https://en.wikipedia.org/wiki/Markdown)) is a human
 readable markup language
 
-Tasks' optional Markdown support will highlight Markdown syntax while editing a
-task's title and description, and display rendered Markdown in your task lists
-
 ## Enable Markdown
 
 Navigate to `☰ > Settings > Look and feel` and toggle on `Edit screen options >
-Markdown`. You may also want to toggle on `Task list options > Show full
+Markdown`
+
+You may also want to toggle on `Task list options > Show full
 description`
 
-## Widgets & notifications
+## Behavior
 
-Due to technical limitations only strikethrough is supported in widgets and
-notifications. All other Markdown features will be rendered as plain text.
-Links will be highlighted but cannot be clicked
+* **Task list**: Markdown will be rendered in the title and description. Links
+  will be clickable
+* **Edit screen**: Markdown syntax in the title and description will be
+  highlighted
+* **Widgets & notifications**: Due to technical limitations only strikethrough
+  is supported. Other features will be rendered as plain text with Markdown
+  syntax removed. Links cannot be clicked
 
 ## Supported features
 
