@@ -44,6 +44,10 @@ module.exports = {
               label: 'Donate',
               to: 'docs/donate',
             },
+            {
+              label: 'Translations',
+              to: 'docs/translations',
+            },
           ],
         },
         {
