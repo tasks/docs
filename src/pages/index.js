@@ -37,11 +37,11 @@ const features = [
     ),
   },
   {
-    title: 'Customizable',
+    title: 'Customizable and mutilingual',
     imageUrl: 'img/undraw_personal_settings_kihd.svg',
     description: (
       <>
-        Extensive options for customizing the look and feel of Tasks
+        Extensive options for customizing the look and feel of Tasks. Use Tasks in your language
       </>
     ),
   },
