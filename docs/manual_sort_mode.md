@@ -3,9 +3,11 @@ id: manual_sort_mode
 title: Manual sorting
 ---
 
-`My order` sort mode allows you to manually rearrange your task lists. Long
-press to intiate a drag-and-drop gesture, then move your task up or down to
-re-arrange it, or move it to the side to turn it into a subtask
+`My order` sort mode allows you to manually rearrange your tasks in a 
+particular task list. Select a task list, open the overflow menu sort options, 
+choose `My order`. Then long press to intiate a drag-and-drop gesture, then 
+move your task up or down to re-arrange it, or move it to the side to turn it 
+into a subtask
 
 `My order` is supported for:
 
