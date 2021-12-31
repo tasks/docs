@@ -11,6 +11,7 @@ Redirect /source https://github.com/tasks/tasks
 Redirect /weblate https://hosted.weblate.org/projects/tasks/android
 Redirect /sync /docs/sync
 Redirect /notifications /docs/notifications
+Redirect /intents /docs/intents
 Redirect /filters /docs/filters
 Redirect /davx5 /docs/davx5
 Redirect /backups /docs/backups
