@@ -45,9 +45,10 @@ table lists the metadata currently synchronized with each service
 | Location | ✓ | | ✓ | ✓ | ✓ |
 | Tags | ✓ | | ✓ | ✓ | ✓ |
 | Recurrence | ✓ | | ✓ | ✓ | ✓ |
-| Repeat after completion | | | | | |
-| Reminders | | | | | |
+| Reminders | ✓ | | ✓ | ✓ | ✓ |
+| Random reminders | | | | | |
 | Location reminders | | | | | |
+| Repeat after completion | | | | | |
 | Attachments | | | | | |
 | Calendar event | | | | | |
 | Timer | | | | | |
