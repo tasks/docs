@@ -80,8 +80,8 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Chat on Freenode',
-              to: 'https://webchat.freenode.net/?channels=tasks'
+              label: 'Chat on Libera Chat',
+              to: 'https://web.libera.chat/#tasks'
             },
             {
               label: 'Changelog',
