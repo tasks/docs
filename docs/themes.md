@@ -5,8 +5,6 @@ title: Themes
 
 Tasks offers many options for customizing the appearance of the app
 
-**NOTE: some features described here require Tasks v8.2, which is currently rolling out to the Google Play Store**
-
 ### Theme
 
 You may select one base theme from the following list:
