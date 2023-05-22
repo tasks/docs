@@ -21,6 +21,7 @@ are missing, outdated, or incorrect, please [send me an e-mail](mailto:support@t
 | [Fastmail](https://fastmail.com/) | Paid | | | |
 | [Mailbox.org](https://mailbox.org) | Paid | | | ✓ |
 | [fruux](https://fruux.com) | Free/Paid | | ✓ [2] | ✓ |
+| [Vikunja](https://vikunja.io/docs/caldav/) | Free/Paid | ✓ | | ✓ |
 | [xandikos](https://xandikos.org) | | ✓ | | |
 | [Radicale](https://radicale.org) | | ✓ | | |
 | [Baïkal](http://sabre.io/baikal/) | | ✓ | | ✓ |
