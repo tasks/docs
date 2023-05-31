@@ -20,7 +20,7 @@ No other data can be synchronized through Google Tasks
 
 **Please note:** Tasks.org will be flagged in your Google Security Checkup
 because I am an unverified developer. Unfortunately it costs approximately
-$15,000-75,000 USD to get verified, so this situation is unlikely to change
+$15,000-75,000 USD to get verified, so this situation is unlikely to change.
 
 ### Recurrence, reminders, and due times
 
