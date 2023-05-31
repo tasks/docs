@@ -48,13 +48,13 @@ Google Tasks```
 
 Tasks requires the `contacts` permission on versions of Android prior to 8.0.
 This permission is needed to access the Google accounts registered on your
-device
+device.
 
 ### Choose an account
 
 Select the Google account that you would like to synchronize with. A
 [subscription](subscribe.md) is required to synchronize with two or more Google
-accounts
+accounts.
 
 ### Grant OAuth 2.0 access
 
