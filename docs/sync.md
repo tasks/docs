@@ -62,3 +62,12 @@ sponsorship](https://github.com/sponsors/abaker) required
 ³ Support varies by CalDAV service
 
 ⁴ Limited to 8192 characters
+
+### Sync Conditions
+
+Tasks syncronizes under the following conditions:
+
+* When the app is opened
+* One minute after creating/updating items
+* Once per hour when the app isn't open
+* When you pull to sync
