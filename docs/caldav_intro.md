@@ -52,7 +52,7 @@ the following details:
   * Android 6+: Passwords will be encrypted with the Android KeyStore
   * Android 4 and 5: Passwords will be stored in **plain text**
 * **URL** to your CalDAV home set
-  * Tasks will follow the ```./well-known/caldav``` redirect for URLs that use
+  * Tasks will follow the ```/.well-known/caldav``` redirect for URLs that use
     SSL. As an example you can enter ```https://my.owndrive.com``` and Tasks
     will find your home set
   * For servers that do not provide a redirect you will need to enter the home
