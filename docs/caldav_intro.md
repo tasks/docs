@@ -58,7 +58,4 @@ the following details:
   * For servers that do not provide a redirect you will need to enter the home
     set URL yourself. This URL will vary by server, but will look something
     like ```https://example.com/remote.php/caldav/calendars/myusername/```
-* **Let server schedule recurring tasks** Some servers, such as mailbox.org,
-  will schedule recurring tasks for you. Enable this option to prevent Tasks
-  from scheduling the next instance of a recurring task
-
+* **Server type**
