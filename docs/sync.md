@@ -65,7 +65,7 @@ sponsorship](https://github.com/sponsors/abaker) required
 
 ### Sync Conditions
 
-Tasks syncronizes under the following conditions:
+Tasks synchronizes under the following conditions:
 
 * When the app is opened
 * One minute after creating/updating items
