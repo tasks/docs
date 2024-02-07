@@ -50,6 +50,13 @@ Settings > Notifications > Persistent reminders`
 Some lock screens exclude persistent reminders. Toggle off `☰ > Settings >
 Notifications > Persistent reminders`
 
+### Notifications are not persistent anymore
+
+As noted in the [release notes](https://developer.android.com/about/versions/14/behavior-changes-all#non-dismissable-notifications)
+of Android 14, persistent/sticky/non-dismissable notifications are no longer 
+supported. There is no fix for the Tasks app yet but options like "snoozing" 
+the noficiations are [being discussed](https://github.com/tasks/tasks/issues/2753).
+
 ### Notifications still don't work!!!
 
 Open up the navigation drawer, tap on `☰ > Help & feedback > Contact developer` and
