@@ -11,7 +11,7 @@ Work in progress
 
 ## Create task
 
-[Tasker variables](http://tasker.dinglisch.net/userguide/en/variables.html) may be used in all available fields. At present you can only set the title, due date, due time, priority, and description from Tasker. Support for additional fields will be added in the future.
+[Tasker variables](https://tasker.joaoapps.com/userguide/en/variables.html) may be used in all available fields. At present you can only set the title, due date, due time, priority, and description from Tasker. Support for additional fields will be added in the future.
 
 * **Due date** in ISO-8601 extended format, e.g. `2017-12-28`
 * **Due time** in ISO-8601 extended format, e.g. `13:45`. If the due time field is set but the due date field is blank then Tasks will use the current date
