@@ -8,7 +8,7 @@ Redirect /caldav /docs/caldav_intro
 Redirect /etesync /docs/etesync_intro
 Redirect /changelog https://github.com/tasks/tasks/blob/main/CHANGELOG.md
 Redirect /source https://github.com/tasks/tasks
-Redirect /weblate https://hosted.weblate.org/projects/tasks/android
+Redirect /weblate https://hosted.weblate.org/projects/tasks/
 Redirect /sync /docs/sync
 Redirect /notifications /docs/notifications
 Redirect /intents /docs/intents
