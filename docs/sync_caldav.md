@@ -1,7 +1,6 @@
 ---
-id: caldav_intro
+id: sync_caldav
 title: CalDAV
-sidebar_label: CalDAV
 ---
 
 CalDAV [[Wikipedia](https://en.wikipedia.org/wiki/CalDAV)] is an open Internet

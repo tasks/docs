@@ -1,6 +1,6 @@
 ---
-id: app_passwords
-title: App passwords
+id: sync_tasks_org
+title: Tasks.org
 ---
 The Tasks.org synchronization service is powered by the open CalDAV protocol,
 which means it is compatible with third-party task and calendar apps! You must

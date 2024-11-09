@@ -1,7 +1,7 @@
 ---
 id: sync
 title: Synchronization
-sidebar_label: Synchronization
+sidebar_label: Overview
 ---
 
 Tasks can be used offline, synchronized with Tasks.org, or synchronized
@@ -12,7 +12,7 @@ the [iCalendar standard](https://en.wikipedia.org/wiki/ICalendar).
 
 The following tables provide a comparison of services and features supported by Tasks
 
-|   | Tasks.org | [Google Tasks](google_tasks_intro.md) | [DAVx⁵](davx5.md) | [CalDAV](caldav_intro.md) | [EteSync app](etesync_intro.md) | [EteSync](etesync_intro.md) | [DecSync CC](decsync.md) |
+|   | Tasks.org | [Google Tasks](sync_google_tasks) | [DAVx⁵](sync_davx5) | [CalDAV](sync_caldav) | [EteSync app](sync_etesync) | [EteSync](sync_etesync) | [DecSync CC](sync_decsync) |
 | -:|:---:|:------------:|:-----:|:------:|:--------------:|:-------:|:------------:|
 | In-app subscription required | Yes¹ | No² | Yes | Yes | Yes | Yes | Yes |
 | Third-party service cost | | Free | Free/Paid | Free/Paid | Paid | Paid | |

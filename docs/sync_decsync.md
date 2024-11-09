@@ -1,7 +1,6 @@
 ---
-id: decsync
+id: sync_decsync
 title: DecSync CC
-sidebar_label: DecSync CC
 ---
 DecSync (Decentralized Synchronization) can be used to synchronize your tasks
 without a server.

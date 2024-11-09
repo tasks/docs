@@ -1,5 +1,5 @@
 ---
-id: google_tasks_intro
+id: sync_google_tasks
 title: Google Tasks
 sidebar_label: Google Tasks
 ---
@@ -19,8 +19,9 @@ to synchronize the following:
 No other data can be synchronized through Google Tasks
 
 **Please note:** Tasks.org will be flagged in your Google Security Checkup
-because I am an unverified developer. Unfortunately it costs approximately
-$15,000-75,000 USD to get verified, so this situation is unlikely to change.
+because I am an unverified developer. It costs $15,000-75,000 USD to get verified,
+which is cost prohibitive. Tasks.org synchronizes directly with Google Tasks' servers,
+and I never have access to your Google Tasks data.
 
 ### Recurrence, reminders, and due times
 

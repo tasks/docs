@@ -1,8 +1,8 @@
 module.exports = {
   someSidebar: {
-    "Documentation": ['about', 'sync', 'sharing', 'markdown', 'backups', 'filters', 'location', 'manual_sort_mode', 'beta', 'translations', 'subscribe', 'donate', 'themes', 'tasker', 'privacy'],
-    "Tasks.org sync": ['app_passwords'],
-    "Third-party sync": ['google_tasks_intro', 'davx5', 'caldav_intro', 'etesync_intro', 'decsync'],
+    "Documentation": ['about', 'markdown', 'backups', 'filters', 'location', 'manual_sort_mode', 'beta', 'translations', 'subscribe', 'donate', 'themes', 'tasker', 'privacy'],
+    "Synchronization": ['sync', 'sync_tasks_org', 'sync_google_tasks', 'sync_davx5', 'sync_caldav', 'sync_etesync', 'sync_decsync'],
+    "Usage guide": [],
     Troubleshooting: ['notifications', 'intents'],
   },
 };

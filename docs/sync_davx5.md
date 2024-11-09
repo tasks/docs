@@ -1,7 +1,6 @@
 ---
-id: davx5
+id: sync_davx5
 title: DAVx⁵
-sidebar_label: DAVx⁵
 ---
 [DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) can
 be used to synchronize your CalDAV data with Tasks
