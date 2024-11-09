@@ -9,7 +9,6 @@ not subscribe, there are a few alternative methods of providing financial
 support:
 
 * [Liberapay](https://liberapay.com/tasks)
-* [Open Collective](https://opencollective.com/tasks)
 * [Patreon](https://www.patreon.com/tasks)
 * [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=alex@tasks.org)
 * Send bitcoin to [136mW34jW3cmZKhxuTDn3tHXMRwbbaRU8s](bitcoin:136mW34jW3cmZKhxuTDn3tHXMRwbbaRU8s)

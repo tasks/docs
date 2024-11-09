@@ -67,22 +67,11 @@ module.exports = {
                 </a>
                 `
             },
-            {
-                html: `
-                <a href="https://twitter.com/tasks_org">
-                    <img src="https://img.shields.io/twitter/follow/tasks_org?label=Twitter&style=social"/>
-                </a>
-                `
-            },
           ],
         },
         {
           title: 'More',
           items: [
-            {
-              label: 'Chat on Libera Chat',
-              to: 'https://web.libera.chat/#tasks'
-            },
             {
               label: 'Changelog',
               to: 'https://github.com/tasks/tasks/blob/main/CHANGELOG.md'
