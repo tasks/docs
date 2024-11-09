@@ -28,7 +28,6 @@ are missing, outdated, or incorrect, please [send me an e-mail](mailto:support@t
 | [sabre/dav](http://sabre.io/) | | ✓ | | |
 | [Synology Calendar](https://www.synology.com/en-us/dsm/feature/calendar) | | ✓ | | |
 | [Apple CalendarServer](https://www.calendarserver.org/) | | ✓ | | |
-| [Apple iCloud](caldav_icloud.md) | Free | | | |
 | Microsoft Exchange | Paid [3] | | | |
 | [Office 365](https://office365.com) | Free [3] | | ✓ | ✓ |
 
