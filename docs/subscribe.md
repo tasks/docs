@@ -11,19 +11,18 @@ support development some features require a subscription
 Google Play subscriptions come with a 7-day free trial. You can upgrade,
 downgrade, or cancel your subscription at any time
 
+### Choose your own subscription price
+
+Tasks offers the ability to choose your own subscription price. You can
+unlock all in-app features for as little as $0.99 USD/year, however you will not
+have access to the Tasks.org synchronization service
+
 ### Synchronization with Tasks.org
 
-In order to synchronize your data with Tasks.org's synchronization service, as
-well as unlock all in-app purchases, you must maintain one of the following:
+In order to synchronize your data with Tasks.org's synchronization service you must maintain one of the following:
 
 * Google Play subscription for $2.99/month or $29.99/year
 * [GitHub sponsorship](https://github.com/sponsors/abaker) for $3/month
-
-### Choose your own subscription price
-
-Tasks also offers the option of choosing your own subscription price. You can
-unlock all in-app features for as little as $0.99/year, however you will not
-have access to the Tasks.org synchronization service
 
 ### One-time purchases
 
@@ -60,11 +59,3 @@ F-Droid users do not require a subscription to unlock all in-app features.
 F-Droid users who wish to synchronize their data with Tasks.org's
 synchronization service require a GitHub sponsorship or Google Play
 subscription.
-
-To use a Google Play subscription with the F-Droid release:
-1. Install Tasks.org's [Google Play
-   release](https://play.google.com/store/apps/details?id=org.tasks)
-2. Launch Tasks, tap on `☰ > Settings > Tasks.org > Sign in with Google`, and
-   purchase a subscription
-3. Uninstall the Google Play release and install the F-Droid release
-4. Tap on `☰ > Settings > Tasks.org > Sign in with Google`
