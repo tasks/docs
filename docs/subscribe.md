@@ -36,7 +36,7 @@ keep you happy.
 Tasks does not offer a one-time purchase option, however there is a "hack" to
 unlock the app for many years:
 
-1. Tap on `☰ > Help & feedback`
+1. Tap on `☰ > Settings`
 2. Tap on `Upgrade to pro > More options`, and choose a price. Every $1 will
    unlock the app for approximately one year, i.e. $4.99 ≈ 5 years, $9.99 ≈ 10
    years, $24.99 ≈ 25 years
