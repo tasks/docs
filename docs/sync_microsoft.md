@@ -6,7 +6,8 @@ title: Microsoft To Do
 ⚠️ Microsoft To Do support is in early access. This feature must be enabled by toggling
 on `Settings > Advanced > Microsoft To Do sync` in Tasks v14.4+
 
-Tasks.org can synchronize a portion of its data with Microsoft To Do, a popular task service offered by Microsoft.
+Micorsoft To Do is a popular task service offered by Microsoft. To Do can be accessed from a variety of first-party
+apps.
 
 Microsoft To Do support is available without a subscription. To get started tap
 on `☰ > ⚙ > Not signed in > Microsoft To Do`
