@@ -1,7 +1,6 @@
 ---
 id: sync_google_tasks
 title: Google Tasks
-sidebar_label: Google Tasks
 ---
 
 [Google Tasks](https://support.google.com/calendar/answer/106237) is a basic
