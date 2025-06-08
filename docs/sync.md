@@ -9,17 +9,17 @@ with a variety of third-party apps and services:
 
 * [Google Tasks](sync_google_tasks.md)
 * [Microsoft To Do](sync_microsoft.md)
-* [DAVx⁵](sync_davx5)
-* [CalDAV](sync_caldav)
-* [EteSync](sync_etesync)
-* [DecSync CC](sync_decsync)
+* [DAVx⁵](sync_davx5.md)
+* [CalDAV](sync_caldav.md)
+* [EteSync](sync_etesync.md)
+* [DecSync CC](sync_decsync.md)
 
 Tasks synchronization options, with the exception of Google Tasks and Microsoft To Do, are based on
 the [iCalendar standard](https://en.wikipedia.org/wiki/ICalendar).
 
 The following tables provide a comparison of services and features supported by Tasks
 
-|   | Tasks.org | [Google Tasks](sync_google_tasks) | [DAVx⁵](sync_davx5) | [CalDAV](sync_caldav) | [EteSync app](sync_etesync) | [EteSync](sync_etesync) | [DecSync CC](sync_decsync) |
+|   | Tasks.org | [Google Tasks](sync_google_tasks.md) | [DAVx⁵](sync_davx5.md) | [CalDAV](sync_caldav.md) | [EteSync app](sync_etesync.md) | [EteSync](sync_etesync.md) | [DecSync CC](sync_decsync.md) |
 | -:|:---:|:---------------------------------:|:-------------------:|:---------------------:|:--------------:|:-------:|:------------:|
 | In-app subscription required | Yes¹ |                No                 |         Yes         |          Yes          | Yes | Yes | Yes |
 | Third-party service cost | |               Free                |      Free/Paid      |       Free/Paid       | Paid | Paid | |
