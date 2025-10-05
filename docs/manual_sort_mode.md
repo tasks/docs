@@ -25,7 +25,7 @@ into a subtask
 ### Google Tasks
 
 You must toggle on `☰ > Synchronization > Google Tasks > Custom order
-synchronization fix` to workaround a [long-standing
+synchronization fix` to work around a [long-standing
 bug](https://issuetracker.google.com/issues/132432317) in the Google Tasks API.
 This setting will force Tasks to always perform a full synchronization of your
 custom ordering and subtask information
