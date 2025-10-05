@@ -11,8 +11,8 @@ New releases for Tasks are available to beta testers before they are released pu
 
 ### To join the beta test channel
 
-Visit [here](https://play.google.com/apps/testing/org.tasks) and click 'Become a tester'
+Visit [Google Play: App: Tasks.org: to-do list & tasks](https://play.google.com/apps/testing/org.tasks) and click 'Become a tester'
 
 ### To leave the beta test channel
 
-Visit [here](https://play.google.com/apps/testing/org.tasks) and click 'Leave the program'
+Visit [Google Play: App: Tasks.org: to-do list & tasks](https://play.google.com/apps/testing/org.tasks) and click 'Leave the program'
