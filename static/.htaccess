@@ -1,5 +1,5 @@
 Redirect /subscribe /docs/subscribe
-Redirect /privacy.html /docs/privacy
+Redirect /privacy.html /privacy
 Redirect /donate /docs/donate
 Redirect /translations /docs/translations
 Redirect /help/tasker /docs/tasker

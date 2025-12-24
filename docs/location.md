@@ -14,7 +14,7 @@ Tasks offers several location-based features
 
 Your location is never transmitted to Tasks.org or shared with third-parties.
 Some place search and reverse geocoding API calls are proxied through
-Tasks.org. For more information visit [Task.org's privacy policy](privacy.md)
+Tasks.org. For more information visit [Task.org's privacy policy](/privacy)
 
 ### Map tiles
 
