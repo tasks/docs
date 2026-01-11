@@ -80,6 +80,10 @@ module.exports = {
               label: 'Privacy policy',
               to: 'privacy',
             },
+            {
+              label: 'Terms of service',
+              to: 'terms',
+            },
           ],
         },
       ],
