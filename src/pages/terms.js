@@ -16,6 +16,12 @@ export default function Terms() {
   return (
     <Layout title="Terms of Service">
       <div style={{ padding: '2rem' }}>
+        <p style={{ fontSize: '1.25rem', marginBottom: '2rem' }}>
+          <em>
+            Tasks.org now has a Terms of Service.{' '}
+            <a href="/blog/terms-of-service">Read the blog post</a> for more information.
+          </em>
+        </p>
         <div
           name="termly-embed"
           data-id="8fd7784d-60f5-4e4f-b07f-51219f082bf5"

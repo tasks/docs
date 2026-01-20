@@ -1,7 +1,7 @@
 ---
 slug: privacy-policy-update
 title: New Privacy Policy, Same Old Privacy
-tags: [privacy]
+tags: [privacy, legal]
 ---
 
 You may have noticed the shiny new [privacy policy](/privacy). Don't panic!
