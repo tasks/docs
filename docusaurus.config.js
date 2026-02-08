@@ -90,6 +90,16 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Alex Baker`,
     },
   },
+  plugins: [
+    [
+      'posthog-docusaurus',
+      {
+        apiKey: 'phc_8YsVTE0oWQLKPHaaW9KG7kYaRnAHOacV4A8LfQmuxB4',
+        appUrl: 'https://us.i.posthog.com',
+        enableInDevelopment: false,
+      },
+    ],
+  ],
   presets: [
     [
       '@docusaurus/preset-classic',
