@@ -39,8 +39,8 @@ early 2019. Unfortunately the third-party Google Tasks API did not receive a
 similar update, so this data is not available to third-party clients like Tasks.
 
 You can read more on Google's public issue tracker
-[here](https://issuetracker.google.com/issues/128979662) and
-[here](https://issuetracker.google.com/issues/36759725)
+[Add the ability to get/set task due time via API (128979662)](https://issuetracker.google.com/issues/128979662) and
+[Reminders and Recurring Tasks (36759725)](https://issuetracker.google.com/issues/36759725)
 
 ### Additional features
 

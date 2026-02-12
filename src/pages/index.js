@@ -37,7 +37,7 @@ const features = [
     ),
   },
   {
-    title: 'Customizable and mutilingual',
+    title: 'Customizable and multilingual',
     imageUrl: 'img/undraw_personal_settings_kihd.svg',
     description: (
       <>
