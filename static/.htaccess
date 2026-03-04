@@ -22,3 +22,4 @@ Redirect /decsync /docs/decsync
 Redirect /passwords /docs/app_passwords
 Redirect /sharing /docs/sharing
 Redirect /license https://github.com/tasks/tasks/blob/main/LICENSE
+Redirect /account https://caldav.tasks.org/account/index.html
