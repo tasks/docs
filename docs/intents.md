@@ -7,11 +7,11 @@ sidebar_label: Intents
 Android allows apps to handle requests from other apps. For example, web links
 are handled by your browser app.
 
-Tasks relies on third-party apps to capture images from your camera, record
+Tasks.org relies on third-party apps to capture images from your camera, record
 audio from your microphone, play back audio, select images from a gallery, and
 perform speech recognition.
 
-This improves the privacy and security of Tasks because it does not need access
+This improves the privacy and security of Tasks.org because it does not need access
 to your camera or microphone. These specialized apps are also able to provide
 more features and a better user experience.
 

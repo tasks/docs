@@ -3,20 +3,20 @@ id: sync_davx5
 title: DAVx⁵
 ---
 [DAVx⁵](https://play.google.com/store/apps/details?id=at.bitfire.davdroid) can
-be used to synchronize your CalDAV data with Tasks
+be used to synchronize your CalDAV data with Tasks.org
 
 ### DAVx⁵ vs CalDAV
 
 Both options provide nearly identical functionality, with the exception that
-Tasks cannot create, rename, colorize, or delete your CalDAV lists when
+Tasks.org cannot create, rename, colorize, or delete your CalDAV lists when
 synchronizing with DAVx⁵.
 
-Tasks will ignore your DAVx⁵ data if you have set up CalDAV synchronization for
+Tasks.org will ignore your DAVx⁵ data if you have set up CalDAV synchronization for
 the same account.
 
 ### Adding an account
 
-Your data will automatically appear in Tasks after setting up DAVx⁵. Refer to
+Your data will automatically appear in Tasks.org after setting up DAVx⁵. Refer to
 the following DAVx⁵ infographic for setup instructions.
 
 ![DAVx⁵ setup](assets/davx5_3_3_2-announcement.png)

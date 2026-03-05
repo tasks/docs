@@ -3,7 +3,7 @@ id: donate
 title: Donate
 ---
 
-If you would like to provide a financial contribution to Tasks please consider a
+If you would like to provide a financial contribution to Tasks.org please consider a
 [Google Play subscription](subscribe.md) or [GitHub sponsorship](https://github.com/sponsors/abaker). If you have already subscribed, or would rather
 not subscribe, there are a few alternative methods of providing financial
 support:

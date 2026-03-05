@@ -3,7 +3,7 @@ id: themes
 title: Themes
 ---
 
-Tasks offers many options for customizing the appearance of the app
+Tasks.org offers many options for customizing the appearance of the app
 
 ### Theme
 
@@ -24,7 +24,7 @@ Day/Night will switch to light mode during the day and dark mode at night
 
 You may choose colors for your default theme, each of your tags, filters,
 Google Task, CalDAV, and EteSync lists, as well as each of your home screen
-widgets. Tasks offers 42 predefined colors as well as a color wheel for
+widgets. Tasks.org offers 42 predefined colors as well as a color wheel for
 selecting a custom color
 
 The 42 predefined colors will be desaturated when using a dark theme. Custom
@@ -32,7 +32,7 @@ colors chosen with the color wheel will **not** be desaturated.
 
 ### Accents
 
-Tasks offers a choice of 17 accent colors. Accent colors are used to highlight
+Tasks.org offers a choice of 17 accent colors. Accent colors are used to highlight
 important user interface elements in Android. Only one accent color may be
 selected at a time. Accent colors will be desaturated in dark themes
 

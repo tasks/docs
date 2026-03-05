@@ -5,8 +5,7 @@ sidebar_label: Notifications
 ---
 
 The most common causes of notification trouble are listed below. If your
-problem isn't solved here please send me an e-mail by tapping on `☰ > Help &
-feedback > Contact developer` and I will help you out!
+problem isn't solved here please send me an e-mail by tapping on `⚙ > App settings > About > Contact developer` and I will help you out!
 
 ### Perform a quick notification test
 
@@ -29,9 +28,9 @@ manufacturer's battery restrictions
 ### Notifications are late (Android 6+)
 
 Android can delay notifications to conserve battery while your device is idle.
-To prevent Android from delaying Tasks' notifications:
+To prevent Android from delaying Tasks.org's notifications:
 
-1. Tap on `☰ > Settings > Notifications > Disable battery optimizations`
+1. Tap on `⚙ > App settings > Notifications > Disable battery optimizations`
 2. Tap on the dropdown and select "All apps"
 3. Tap on "Tasks" and select "Don't optimize"
 
@@ -48,17 +47,16 @@ have disabled your manufacturer's battery restrictions
 ### Notifications are silent or do not appear at all (Android 8+)
 
 It is easy to inadvertently silence or disable reminders from the notification
-shade. To check your settings tap on `☰ > Settings > Notifications > More
+shade. To check your settings tap on `⚙ > App settings > Notifications > More
 settings` and make sure `Notifications` are toggled on.
 
 ### Notifications don't appear on my watch
 
-Wearable devices will not display persistent reminders. Toggle off `☰ >
-Settings > Notifications > Persistent reminders`
+Wearable devices will not display persistent reminders. Toggle off `⚙ > App settings > Notifications > Persistent reminders`
 
 ### Notifications don't appear on my lock screen
 
-Some lock screens exclude persistent reminders. Toggle off `☰ > Settings >
+Some lock screens exclude persistent reminders. Toggle off `⚙ > App settings >
 Notifications > Persistent reminders`
 
 ### Notifications are not persistent anymore
@@ -70,5 +68,4 @@ a notification immediately after it is dismissed.
 
 ### Notifications still don't work!!!
 
-Open up the navigation drawer, tap on `☰ > Help & feedback > Contact developer` and
-let me know!
+Tap on `⚙ > App settings > About > Contact developer` and let me know!

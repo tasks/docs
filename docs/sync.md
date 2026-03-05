@@ -4,7 +4,7 @@ title: Synchronization
 sidebar_label: Overview
 ---
 
-Tasks can be used offline, synchronized with Tasks.org, or synchronized
+Tasks.org can be used offline, synchronized with [Tasks.org Cloud](sync_tasks_org.md), or synchronized
 with a variety of third-party apps and services:
 
 * [Google Tasks](sync_google_tasks.md)
@@ -14,10 +14,10 @@ with a variety of third-party apps and services:
 * [EteSync](sync_etesync.md)
 * [DecSync CC](sync_decsync.md)
 
-Tasks synchronization options, with the exception of Google Tasks and Microsoft To Do, are based on
+Tasks.org synchronization options, with the exception of Google Tasks and Microsoft To Do, are based on
 the [iCalendar standard](https://en.wikipedia.org/wiki/ICalendar).
 
-The following tables provide a comparison of services and features supported by Tasks
+The following tables provide a comparison of services and features supported by Tasks.org
 
 |   | Tasks.org | [Google Tasks](sync_google_tasks.md) | [DAVx⁵](sync_davx5.md) | [CalDAV](sync_caldav.md) | [EteSync app](sync_etesync.md) | [EteSync](sync_etesync.md) | [DecSync CC](sync_decsync.md) |
 | -:|:---:|:---------------------------------:|:-------------------:|:---------------------:|:--------------:|:-------:|:------------:|
@@ -26,7 +26,7 @@ The following tables provide a comparison of services and features supported by 
 | Open-source self-hosting | |                                   |        Free         |         Free          | Free | Free | |
 | Subtasks | Multi-level |           Single-level            |     Multi-level     |      Multi-level      | Multi-level | Multi-level | Multi-level |
 | Web interface | |                 ✓                 |          ✓²          |           ✓²           | ✓ | ✓ | |
-| [Sharing](sharing.md) | ✓ |                                   |                     |           ✓           | | ✓ | |
+| Sharing | ✓ |                                   |                     |           ✓           | | ✓ | |
 | [Manual sorting](manual_sort_mode.md) | ✓ |                 ✓                 |          ✓          |           ✓           | ✓ | ✓ | ✓ |
 | Create lists | ✓ |                 ✓                 |                     |           ✓           | | ✓ | |
 | Rename lists | ✓ |                 ✓                 |                     |           ✓           | | ✓ | |
@@ -70,7 +70,7 @@ sponsorship](https://github.com/sponsors/abaker) required
 
 ### Sync Conditions
 
-Tasks synchronizes under the following conditions:
+Tasks.org synchronizes under the following conditions:
 
 * When the app is opened
 * One minute after creating/updating items

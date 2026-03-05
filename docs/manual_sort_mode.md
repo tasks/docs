@@ -22,27 +22,19 @@ into a subtask
 * Tags
 * Filters
 
-### Google Tasks
-
-You must toggle on `☰ > Synchronization > Google Tasks > Custom order
-synchronization fix` to workaround a [long-standing
-bug](https://issuetracker.google.com/issues/132432317) in the Google Tasks API.
-This setting will force Tasks to always perform a full synchronization of your
-custom ordering and subtask information
-
 ### CalDAV, DAVx⁵, and EteSync lists
 
-Tasks implements `My order` using `x-apple-sort-order`, a non-standard
+Tasks.org implements `My order` using `x-apple-sort-order`, a non-standard
 extension to the iCalendar protocol. This sort order is compatible with Apple
 Reminders and Nextcloud Tasks.
 
 ### Astrid manual sorting
 
-Tasks supports Astrid's legacy manual sort mode for 'My Tasks', 'Today', and
-tags
+Tasks.org supports Astrid's legacy manual sort mode for 'My Tasks', 'Today', and
+tags. *This sort mode is not recommended, proceed with caution!* This sort mode will be replaced in a future release,
+and Astrid sort order data will not be migrated
 
-* This sort mode will be replaced in a future release
-* Toggle on `☰ > Advanced > Astrid manual sorting` to enable this sort mode
+* Toggle on `⚙ > App settings > Advanced > Astrid manual sorting` to enable this sort mode
 * `Show hidden` and `Show completed` toggles are not supported
 * Manual order changes in this sort mode are not reflected in `My order`
 * Subtasks created in this sort mode are not visible in the edit screen

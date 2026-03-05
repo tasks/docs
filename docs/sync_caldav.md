@@ -4,7 +4,7 @@ title: CalDAV
 ---
 
 CalDAV [[Wikipedia](https://en.wikipedia.org/wiki/CalDAV)] is an open Internet
-standard for synchronizing calendar events and task lists.  Tasks can
+standard for synchronizing calendar events and task lists.  Tasks.org can
 synchronize with a variety of CalDAV servers. Set up a free or paid account
 with a third party service, or host your own from a selection of open-source
 servers
@@ -37,12 +37,12 @@ are missing, outdated, or incorrect, please [send me an e-mail](mailto:support@t
 [3]: Requires a [DavMail Gateway](http://davmail.sourceforge.net/)
 
 
-For more details about Tasks' CalDAV synchronization capabilities, visit
+For more details about Tasks.org's CalDAV synchronization capabilities, visit
 [tasks.org/sync](sync.md)
 
 ### Adding an account
 
-Select ```Tasks settings > Synchronization > Add account > CalDAV``` and enter
+Select `⚙ > App settings > Synchronization > Add account > CalDAV` and enter
 the following details:
 
 * **User** for authentication with your CalDAV server
@@ -50,8 +50,8 @@ the following details:
   * Android 6+: Passwords will be encrypted with the Android KeyStore
   * Android 4 and 5: Passwords will be stored in **plain text**
 * **URL** to your CalDAV home set
-  * Tasks will follow the ```/.well-known/caldav``` redirect for URLs that use
-    SSL. As an example you can enter ```https://my.owndrive.com``` and Tasks
+  * Tasks.org will follow the ```/.well-known/caldav``` redirect for URLs that use
+    SSL. As an example you can enter ```https://my.owndrive.com``` and Tasks.org
     will find your home set
   * For servers that do not provide a redirect you will need to enter the home
     set URL yourself. This URL will vary by server, but will look something

@@ -17,7 +17,7 @@ for more information.
 
 The [EteSync Android
 client](https://play.google.com/store/apps/details?id=com.etesync.syncadapter)
-can populate Tasks with data, or you can enter your credentials into Tasks and
+can populate Tasks.org with data, or you can enter your credentials into Tasks.org and
 synchronize directly with your EteSync host.
 
-Once your account is signed-in, Tasks will create a Category with your username in the sidebar. Your etesync lists will be kept separately from your local lists. In order to upload your existing lists to etesync, you have to use multi-select + select all + move to migrate the data for each list. For more info, see: [issue #1597](https://github.com/tasks/tasks/issues/1597).
+Once your account is signed-in, Tasks.org will create a Category with your username in the sidebar. Your etesync lists will be kept separately from your local lists. In order to upload your existing lists to etesync, you have to use multi-select + select all + move to migrate the data for each list. For more info, see: [issue #1597](https://github.com/tasks/tasks/issues/1597).

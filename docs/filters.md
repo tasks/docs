@@ -4,7 +4,7 @@ title: Custom filters
 sidebar_label: Filters
 ---
 
-Tasks offers the ability to create custom filters based on due dates,
+Tasks.org offers the ability to create custom filters based on due dates,
 priorities, titles, tags, and lists
 
 ### Adding a filter

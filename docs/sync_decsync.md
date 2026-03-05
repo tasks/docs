@@ -11,7 +11,7 @@ tasks with iCalendar files on your device's internal storage.  You are
 responsible for synchronizing the DecSync directory with other devices. One
 solution is to use [Syncthing](https://syncthing.net/)
 
-Your DecSync lists will automatically appear in Tasks after setting up DecSync
+Your DecSync lists will automatically appear in Tasks.org after setting up DecSync
 CC
 
 You can read more about DecSync at

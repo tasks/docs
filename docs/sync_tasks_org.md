@@ -1,31 +1,31 @@
 ---
 id: sync_tasks_org
-title: Tasks.org
+title: Overview
 ---
-The Tasks.org synchronization service is powered by the open CalDAV protocol,
-which means it is compatible with third-party task and calendar apps! You must
-generate a username and password to sign in to Tasks.org with apps like
-Outlook, Thunderbird, or Apple Reminders.
 
-These credentials grant complete access to the tasks and calendars in your
-Tasks.org account. Generate as many passwords as you need, but do not write
-them down or share them with anyone!
+Tasks.org Cloud is a cloud synchronization service for Tasks.org. It is powered by the open [CalDAV](https://en.wikipedia.org/wiki/CalDAV) protocol, which means your data is compatible with third-party task and calendar apps like Outlook, Thunderbird, and Apple Reminders.
 
-#### To generate an app password:
+## Features
 
-1. Open your account settings by tapping on `☰ > Settings > Tasks.org`
-2. Tap on `Generate new password`
-3. (Optional) Enter a description for this password, like 'Outlook on my
-   laptop'
-4. Tap `OK`
-5. Enter the URL, username, and password into your third-party app before
-   dismissing the dialog. _These credentials cannot be displayed after
-   dismissing the dialog!_
+- **Cloud sync** - Keep your tasks synchronized across all of your devices
+- **[Friends & Family Sharing](cloud_family.md)** - Share lists with up to five guests for free
+- **[Email-to-task](cloud_email.md)** - Turn emails into tasks by forwarding them to your private inbox
+- **Third-party app access** - Use your Tasks.org account with any CalDAV-compatible app
+- **Open standards** - Your data is never locked in to a proprietary format
 
-#### To delete an app password:
+## Getting started
 
-1. Open your account settings by tapping on `☰ > Settings > Tasks.org`
-2. Tap the trashcan icon next to the password you would like to delete
-3. Tap 'OK' to confirm. Any apps that were configured with this password will
-   no longer have access to Tasks.org
+1. [Subscribe](subscribe) to a plan that includes Tasks.org Cloud
+2. Open `⚙ > App settings > Tasks.org` to configure synchronization
+3. Your tasks will begin syncing automatically
 
+## Third-party app access
+
+You can generate app passwords to sign in to your Tasks.org account from third-party apps. See [App Passwords](app_passwords) for details.
+
+## Pricing
+
+Tasks.org Cloud is available with the following subscriptions:
+
+- Google Play subscription for $2.99/month or $29.99/year
+- [GitHub sponsorship](https://github.com/sponsors/abaker) for $3/month
