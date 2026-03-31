@@ -87,7 +87,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Alex Baker`,
+      copyright: `Copyright © ${new Date().getFullYear()} Tasks.org, LLC`,
     },
   },
   plugins: [
