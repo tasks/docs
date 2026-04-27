@@ -98,6 +98,18 @@ function Home() {
       <a href='https://play.google.com/store/apps/details?id=org.tasks&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="200"/></a>
       <a href="https://f-droid.org/packages/org.tasks"><img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png" alt="Get it on F-Droid" width="200"/> </a>
           </div>
+          <div className={styles.otherPlatforms}>
+            <p>
+              <strong>Desktop (alpha):</strong>{' '}
+              <a href="https://github.com/tasks/tasks/releases/latest">latest release on GitHub</a>
+            </p>
+            <p>
+              <strong>Pebble:</strong>{' '}
+              <a href="https://apps.repebble.com/13e39c547aee442eb19a4755">Repebble store</a>
+              {' · '}
+              <a href="https://apps.rebble.io/en_US/application/69c598c0f20a0a0009e54acf">Rebble store</a>
+            </p>
+          </div>
         </div>
       </header>
       <main>

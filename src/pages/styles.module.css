@@ -24,6 +24,30 @@
   justify-content: center;
 }
 
+.otherPlatforms {
+  margin-top: 1.5rem;
+  text-align: center;
+}
+
+.otherPlatforms p {
+  margin-bottom: 0.5rem;
+}
+
+.otherPlatforms a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.otherPlatforms a:hover {
+  color: #fff;
+  opacity: 0.85;
+}
+
+:global([data-theme='dark']) .otherPlatforms a,
+:global([data-theme='dark']) .otherPlatforms a:hover {
+  color: #000;
+}
+
 .features {
   display: flex;
   align-items: center;
