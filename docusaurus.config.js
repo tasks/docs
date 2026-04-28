@@ -89,6 +89,10 @@ module.exports = {
               label: 'Terms of service',
               to: 'terms',
             },
+            {
+              label: 'Refund policy',
+              to: 'refund',
+            },
           ],
         },
       ],
