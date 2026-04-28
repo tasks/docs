@@ -38,7 +38,7 @@ description`
 
 ### Links
 
-`[Link](https://tasks.org)` -> [Link](https://tasks.org)
+`[tasks.org](https://tasks.org)` -> [tasks.org](https://tasks.org)
 
 ### Ordered list
 ```
