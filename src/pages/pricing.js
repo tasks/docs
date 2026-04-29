@@ -25,8 +25,28 @@ const tiers = [
     name: 'Tasks.org Cloud',
     description: 'Unlock all in-app features and connect to Tasks.org Cloud sync.',
     billingOptions: [
-      {id: 'annual', label: 'Annual', price: '$2.49', period: '/month', note: 'Billed annually ($29.99/year)'},
-      {id: 'monthly', label: 'Monthly', price: '$2.99', period: '/month', note: 'Billed monthly'},
+      {
+        id: 'annual',
+        label: 'Annual',
+        price: '$2.49',
+        period: '/month',
+        note: 'Billed annually ($29.99/year)',
+        secondary: {
+          label: 'Or sponsor on GitHub for $30/year',
+          href: 'https://github.com/sponsors/abaker',
+        },
+      },
+      {
+        id: 'monthly',
+        label: 'Monthly',
+        price: '$2.99',
+        period: '/month',
+        note: 'Billed monthly',
+        secondary: {
+          label: 'Or sponsor on GitHub for $3/month',
+          href: 'https://github.com/sponsors/abaker',
+        },
+      },
     ],
     features: [
       'All name-your-price features',
@@ -38,10 +58,6 @@ const tiers = [
     cta: {
       label: 'Subscribe on Google Play',
       href: 'https://play.google.com/store/apps/details?id=org.tasks',
-    },
-    secondary: {
-      label: 'Or sponsor on GitHub for $3/month',
-      href: 'https://github.com/sponsors/abaker',
     },
     featured: true,
     badge: 'Recommended',
@@ -70,6 +86,7 @@ function Tier({tier}) {
   const price = billing?.price ?? tier.price;
   const period = billing?.period ?? tier.period;
   const priceNote = billing?.note ?? tier.priceNote;
+  const secondary = billing?.secondary ?? tier.secondary;
 
   return (
     <div className={`${styles.tier}${tier.featured ? ` ${styles.tierFeatured}` : ''}`}>
@@ -119,9 +136,9 @@ function Tier({tier}) {
       <a className={`button button--primary button--block ${styles.cta}`} href={tier.cta.href}>
         {tier.cta.label}
       </a>
-      {tier.secondary && (
-        <a className={styles.secondary} href={tier.secondary.href}>
-          {tier.secondary.label}
+      {secondary && (
+        <a className={styles.secondary} href={secondary.href}>
+          {secondary.label}
         </a>
       )}
     </div>
