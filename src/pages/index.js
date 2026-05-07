@@ -101,7 +101,7 @@ function Home() {
           <div className={styles.otherPlatforms}>
             <p>
               <strong>Desktop (alpha):</strong>{' '}
-              <a href="https://github.com/tasks/tasks/releases/latest">latest release on GitHub</a>
+              <a href="/download">tasks.org/download</a>
             </p>
             <p>
               <strong>Pebble:</strong>{' '}

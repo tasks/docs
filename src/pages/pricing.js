@@ -77,6 +77,10 @@ const tiers = [
       label: 'Subscribe on Google Play',
       href: 'https://play.google.com/store/apps/details?id=org.tasks',
     },
+    secondary: {
+      label: 'Or sponsor on GitHub for $1/year',
+      href: 'https://github.com/sponsors/abaker',
+    },
   },
 ];
 
