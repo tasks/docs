@@ -19,7 +19,7 @@ the [iCalendar standard](https://en.wikipedia.org/wiki/ICalendar).
 
 The following tables provide a comparison of services and features supported by Tasks.org
 
-|   | Tasks.org | [Google Tasks](sync_google_tasks.md) | [DAVx⁵](sync_davx5.md) | [CalDAV](sync_caldav.md) | [CalDav-OX](sync_caldav.md) | [EteSync app](sync_etesync.md) | [EteSync](sync_etesync.md) | [DecSync CC](sync_decsync.md) |
+|   | Tasks.org | [Google Tasks](sync_google_tasks.md) | [DAVx⁵](sync_davx5.md) | [CalDAV](sync_caldav.md) | [CalDav-OX⁴](sync_caldav.md) | [EteSync app](sync_etesync.md) | [EteSync](sync_etesync.md) | [DecSync CC](sync_decsync.md) |
 | -:|:---:|:---------------------------------:|:-------------------:|:---------------------:|:---:|:--------------:|:-------:|:------------:|
 | In-app subscription required | Yes¹ |                No                 |         Yes         |          Yes          | Yes | Yes | Yes | Yes |
 | Third-party service cost | |               Free                |      Free/Paid      |       Free/Paid       | Free/Paid | Paid | Paid | |
@@ -67,6 +67,8 @@ sponsorship](https://github.com/sponsors/abaker) required
 ² In-app subscription required to add two or more Google Task accounts
 
 ³ Limited to 8192 characters
+
+⁴ Caldav-OX refers to OpenXchange's implementation of Caldav, which lacks some features
 
 ### Sync Conditions
 
