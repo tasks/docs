@@ -37,29 +37,29 @@ The following tables provide a comparison of services and features supported by 
 Not all task information synchronizes with third party services. The following
 table lists the metadata currently synchronized with each service
 
-|   | Tasks.org | Google Tasks | DAVx⁵ / EteSync app / DecSync CC| CalDAV | EteSync |
-| -:|:---:|:------------:|:-----------:|:-------:|:------:|
-| Title | ✓ |      ✓       | ✓ | ✓ | ✓ |
-| Due date | ✓ |      ✓       | ✓ | ✓ | ✓ |
-| Due time | ✓ |              | ✓ | ✓ | ✓ |
-| Start time | ✓ |              | ✓ | ✓ | ✓ |
-| Creation date | ✓ |      ✓       | ✓ | ✓ | ✓ |
-| Modification date | ✓ |      ✓       | ✓ | ✓ | ✓ |
-| Completion date | ✓ |      ✓       | ✓ | ✓ | ✓ |
-| Subtasks | ✓ |      ✓       | ✓ | ✓ | ✓ |
-| Description | ✓ |      ✓³       | ✓ | ✓ | ✓ |
-| Priority | ✓ |              | ✓ | ✓ | ✓ |
-| Location | ✓ |              | ✓ | ✓ | ✓ |
-| Tags | ✓ |              | ✓ | ✓ | ✓ |
-| Recurrence | ✓ |              | ✓ | ✓ | ✓ |
-| Reminders | ✓ |              | ✓ | ✓ | ✓ |
-| Random reminders | |              | | | |
-| Location reminders | |              | | | |
-| Repeat after completion | |              | | | |
-| Attachments | |              | | | |
-| Calendar event | |              | | | |
-| Timer | |              | | | |
-| Comments | |              | | | |
+|   | Tasks.org | Google Tasks | DAVx⁵ / EteSync app / DecSync CC| CalDAV | CalDav-OX | EteSync |
+| -:|:---:|:------------:|:-----------:|:-------:|:---:|:------:|
+| Title | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Due date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Due time | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Start time | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Creation date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Modification date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Completion date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Subtasks | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Description | ✓ |      ✓³       | ✓ | ✓ | ✓ | ✓ |
+| Priority | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Location | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Tags | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Recurrence | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Reminders | ✓ |              | ✓ | ✓ | ✓ | ✓ |
+| Random reminders | |              | | | | |
+| Location reminders | |              | | | | |
+| Repeat after completion | |              | | | | |
+| Attachments | |              | | | | |
+| Calendar event | |              | | | | |
+| Timer | |              | | | | |
+| Comments | |              | | | | |
 
 ¹ Google Play subscription or [GitHub
 sponsorship](https://github.com/sponsors/abaker) required
