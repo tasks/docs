@@ -19,20 +19,20 @@ the [iCalendar standard](https://en.wikipedia.org/wiki/ICalendar).
 
 The following tables provide a comparison of services and features supported by Tasks.org
 
-|   | Tasks.org | [Google Tasks](sync_google_tasks.md) | [DAVx⁵](sync_davx5.md) | [CalDAV](sync_caldav.md) | [EteSync app](sync_etesync.md) | [EteSync](sync_etesync.md) | [DecSync CC](sync_decsync.md) |
-| -:|:---:|:---------------------------------:|:-------------------:|:---------------------:|:--------------:|:-------:|:------------:|
-| In-app subscription required | Yes¹ |                No                 |         Yes         |          Yes          | Yes | Yes | Yes |
-| Third-party service cost | |               Free                |      Free/Paid      |       Free/Paid       | Paid | Paid | |
-| Open-source self-hosting | |                                   |        Free         |         Free          | Free | Free | |
-| Subtasks | Multi-level |           Single-level            |     Multi-level     |      Multi-level      | Multi-level | Multi-level | Multi-level |
-| Web interface | |                 ✓                 |          ✓²          |           ✓²           | ✓ | ✓ | |
-| Sharing | ✓ |                                   |                     |           ✓           | | ✓ | |
-| [Manual sorting](manual_sort_mode.md) | ✓ |                 ✓                 |          ✓          |           ✓           | ✓ | ✓ | ✓ |
-| Create lists | ✓ |                 ✓                 |                     |           ✓           | | ✓ | |
-| Rename lists | ✓ |                 ✓                 |                     |           ✓           | | ✓ | |
-| Delete lists | ✓ |                 ✓                 |                     |           ✓           | | ✓ | |
-| Change list color | ✓ |                                   |                     |           ✓           | | ✓ | |
-| End-to-end encryption | |                                   |                     |                       | ✓ | ✓ | |
+|   | Tasks.org | [Google Tasks](sync_google_tasks.md) | [DAVx⁵](sync_davx5.md) | [CalDAV](sync_caldav.md) | CalDav-OX | [EteSync app](sync_etesync.md) | [EteSync](sync_etesync.md) | [DecSync CC](sync_decsync.md) |
+| -:|:---:|:---------------------------------:|:-------------------:|:---------------------:|:---------:|:--------------:|:-------:|:------------:|
+| In-app subscription required | Yes¹ |                No                 |         Yes         |          Yes          | | Yes | Yes | Yes |
+| Third-party service cost | |               Free                |      Free/Paid      |       Free/Paid       | | Paid | Paid | |
+| Open-source self-hosting | |                                   |        Free         |         Free          | | Free | Free | |
+| Subtasks | Multi-level |           Single-level            |     Multi-level     |      Multi-level      | | Multi-level | Multi-level | Multi-level |
+| Web interface | |                 ✓                 |          ✓²          |           ✓²           | | ✓ | ✓ | |
+| Sharing | ✓ |                                   |                     |           ✓           | | | ✓ | |
+| [Manual sorting](manual_sort_mode.md) | ✓ |                 ✓                 |          ✓          |           ✓           | | ✓ | ✓ | ✓ |
+| Create lists | ✓ |                 ✓                 |                     |           ✓           | | | ✓ | |
+| Rename lists | ✓ |                 ✓                 |                     |           ✓           | | | ✓ | |
+| Delete lists | ✓ |                 ✓                 |                     |           ✓           | | | ✓ | |
+| Change list color | ✓ |                                   |                     |           ✓           | | | ✓ | |
+| End-to-end encryption | |                                   |                     |                       | | ✓ | ✓ | |
 
 Not all task information synchronizes with third party services. The following
 table lists the metadata currently synchronized with each service
