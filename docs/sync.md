@@ -46,7 +46,7 @@ table lists the metadata currently synchronized with each service
 | Creation date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
 | Modification date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
 | Completion date | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
-| Subtasks | ✓ |      ✓       | ✓ | ✓ | ✓ | ✓ |
+| Subtasks | ✓ |      ✓       | ✓ | ✓ |  | ✓ |
 | Description | ✓ |      ✓³       | ✓ | ✓ | ✓ | ✓ |
 | Priority | ✓ |              | ✓ | ✓ | ✓ | ✓ |
 | Location | ✓ |              | ✓ | ✓ | ✓ | ✓ |
