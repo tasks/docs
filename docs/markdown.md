@@ -8,8 +8,7 @@ readable markup language
 
 ## Enable Markdown
 
-Navigate to `⚙ > App settings > Look and feel` and toggle on `Edit screen options >
-Markdown`
+Navigate to `⚙ > App settings > Look and feel` and toggle on `Markdown`
 
 You may also want to toggle on `Task list options > Show full
 description`
