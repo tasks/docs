@@ -4,8 +4,8 @@
 /translations         /docs/translations/                                    301
 /help/tasker          /docs/tasker/                                          301
 /help                 /docs/                                                 301
-/caldav               /docs/caldav_intro/                                    301
-/etesync              /docs/etesync_intro/                                   301
+/caldav               /docs/sync_caldav/                                     301
+/etesync              /docs/sync_etesync/                                    301
 /changelog            https://github.com/tasks/tasks/blob/main/CHANGELOG.md  301
 /source               https://github.com/tasks/tasks                         301
 /weblate              https://hosted.weblate.org/projects/tasks/             301
@@ -13,11 +13,11 @@
 /notifications        /docs/notifications/                                   301
 /intents              /docs/intents/                                         301
 /filters              /docs/filters/                                         301
-/davx5                /docs/davx5/                                           301
+/davx5                /docs/sync_davx5/                                      301
 /backups              /docs/backups/                                         301
 /.well-known/caldav   https://caldav.tasks.org                               301
-/decsync              /docs/decsync/                                         301
+/decsync              /docs/sync_decsync/                                    301
 /passwords            /docs/app_passwords/                                   301
-/sharing              /docs/sharing/                                         301
+/sharing              /docs/cloud_family/                                    301
 /license              https://github.com/tasks/tasks/blob/main/LICENSE       301
 /account              https://caldav.tasks.org/account/index.html            301
