@@ -13,22 +13,22 @@ The following is not an exhaustive list of compatible services. If any services
 are missing, outdated, or incorrect, please [send me an e-mail](mailto:support@tasks.org), or open a pull request at
 [github.com/tasks/docs](https://github.com/tasks/docs)
 
-|   | Hosting | Self-hosting | List sharing | Web interface |
-| -:|:-------:|:------------:|:------------:|:-------------:|
-| [Nextcloud](https://nextcloud.com/providers/) | Free/Paid | ✓ | ✓ [1] | ✓ |
-| [Owncloud](https://owncloud.com/partners/find-a-partner/) | Free/Paid | ✓ | ✓ [1] | ✓ |
-| [Fastmail](https://fastmail.com/) | Paid | | | |
-| [Mailbox.org](https://mailbox.org) | Paid | | | ✓ |
-| [fruux](https://fruux.com) | Free/Paid | | ✓ [2] | ✓ |
-| [Vikunja](https://vikunja.io/docs/caldav/) | Free/Paid | ✓ | | ✓ |
-| [xandikos](https://xandikos.org) | | ✓ | | |
-| [Radicale](https://radicale.org) | | ✓ | | |
-| [Baïkal](http://sabre.io/baikal/) | | ✓ | | ✓ |
-| [sabre/dav](http://sabre.io/) | | ✓ | | |
-| [Synology Calendar](https://www.synology.com/en-us/dsm/feature/calendar) | | ✓ | | |
-| [Apple CalendarServer](https://www.calendarserver.org/) | | ✓ | | |
-| Microsoft Exchange | Paid [3] | | | |
-| [Office 365](https://office365.com) | Free [3] | | ✓ | ✓ |
+|   | Hosting | Self-hosting | List sharing | Web interface | Backend |
+| -:|:-------:|:------------:|:------------:|:-------------:| :--- |
+| [Nextcloud](https://nextcloud.com/providers/) | Free/Paid | ✓ | ✓ [1] | ✓ | sabre/dav |
+| [Owncloud](https://owncloud.com/partners/find-a-partner/) | Free/Paid | ✓ | ✓ [1] | ✓ | sabre/dav |
+| [Fastmail](https://fastmail.com/) | Paid | | | | Proprietary (Cyrus) |
+| [Mailbox.org](https://mailbox.org) | Paid | | | ✓ | OpenXchange |
+| [fruux](https://fruux.com) | Free/Paid | | ✓ [2] | ✓ | sabre/dav |
+| [Vikunja](https://vikunja.io/docs/caldav/) | Free/Paid | ✓ | | ✓ |  |
+| [xandikos](https://xandikos.org) | | ✓ | | | |
+| [Radicale](https://radicale.org) | | ✓ | | | Radicale |
+| [Baïkal](http://sabre.io/baikal/) | | ✓ | | ✓ | Baïkal (built on sabre/dav) |
+| [sabre/dav](http://sabre.io/) | | ✓ | | | sabre/dav |
+| [Synology Calendar](https://www.synology.com/en-us/dsm/feature/calendar) | | ✓ | | | |
+| [Apple CalendarServer](https://www.calendarserver.org/) | | ✓ | | | Proprietary |
+| Microsoft Exchange | Paid [3] | | | | Proprietary |
+| [Office 365](https://office365.com) | Free [3] | | ✓ | ✓ | Proprietary |
 
 [1]: Not all hosting providers support sharing
 
@@ -57,3 +57,11 @@ the following details:
     set URL yourself. This URL will vary by server, but will look something
     like ```https://example.com/remote.php/caldav/calendars/myusername/```
 * **Server type**
+
+
+### Support for Caldav standards
+- Certain caldav standards are not supported amongst different caldav server backends
+- `sabre/dav` is the backend used by tasks.org cloud
+#### Subtasks
+- subtasks requires a feature called [related-to](https://www.rfc-editor.org/rfc/rfc9253.html#name-related-to)
+- related-to is not supported on OpenXchange based servers
